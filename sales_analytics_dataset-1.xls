@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Region,City,Customer_Segment,Product,Category,Sub_Category,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Method
+ORD-00494,2025-01-01,Central,Kampala,Small Business,Stapler,Office Supplies,Tools,5,15.94,0.05,75.72,17.73,Card
+ORD-00657,2025-01-01,Central,Kampala,Consumer,Whiteboard,Office Supplies,Boards,3,102.03,0.0,306.09,76.94,Card
+ORD-00415,2025-01-02,Northern,Arua,Consumer,Office Desk,Furniture,Tables,3,388.52,0.0,1165.56,202.19,Bank Transfer
+ORD-00799,2025-01-02,Western,Mbarara,Small Business,Notebook Pack,Office Supplies,Paper,2,16.68,0.15,28.36,5.82,Mobile Money
+ORD-01107,2025-01-02,Central,Mukono,Corporate,Office Desk,Furniture,Tables,1,409.54,0.1,368.59,50.87,Cash
+ORD-00145,2025-01-03,Central,Entebbe,Small Business,Notebook Pack,Office Supplies,Paper,1,17.27,0.0,17.27,3.88,Mobile Money
+ORD-00293,2025-01-03,Central,Kampala,Corporate,Printer Laser,Technology,Printers,2,242.75,0.05,461.22,70.64,Bank Transfer
+ORD-01060,2025-01-03,Eastern,Mbale,Corporate,Notebook Pack,Office Supplies,Paper,1,17.35,0.0,17.35,3.83,Mobile Money
+ORD-00039,2025-01-04,Eastern,Iganga,Consumer,Budget Laptop 15,Technology,Computers,1,834.94,0.05,793.19,143.98,Card
+ORD-00134,2025-01-04,Eastern,Jinja,Consumer,Office Chair,Furniture,Chairs,1,190.73,0.1,171.66,19.66,Cash
+ORD-00551,2025-01-04,Central,Entebbe,Consumer,Executive Chair,Furniture,Chairs,4,324.23,0.15,1102.38,100.25,Cash
+ORD-00862,2025-01-04,Central,Entebbe,Consumer,Smartphone X,Technology,Phones,4,691.39,0.0,2765.56,563.76,Cash
+ORD-00933,2025-01-04,Central,Kampala,Corporate,Printer Laser,Technology,Printers,8,255.42,0.0,2043.36,397.22,Mobile Money
+ORD-01171,2025-01-04,Central,Entebbe,Corporate,Wireless Mouse,Technology,Accessories,1,26.19,0.2,20.95,2.37,Card
+ORD-00057,2025-01-05,Central,Kampala,Consumer,Laptop Pro 14,Technology,Computers,2,1225.35,0.2,1960.56,231.81,Bank Transfer
+ORD-00405,2025-01-06,Northern,Lira,Small Business,Budget Laptop 15,Technology,Computers,3,780.79,0.05,2225.25,377.26,Mobile Money
+ORD-00790,2025-01-06,Central,Mukono,Small Business,Office Desk,Furniture,Tables,1,377.94,0.0,377.94,65.19,Card
+ORD-00070,2025-01-07,Northern,Arua,Consumer,Notebook Pack,Office Supplies,Paper,4,19.06,0.0,76.24,18.23,Mobile Money
+ORD-00128,2025-01-07,Western,Mbarara,Small Business,Whiteboard,Office Supplies,Boards,5,99.86,0.0,499.3,114.66,Mobile Money
+ORD-00133,2025-01-07,Central,Kampala,Consumer,Smartphone X,Technology,Phones,2,662.68,0.1,1192.82,157.21,Card
+ORD-00509,2025-01-07,Northern,Arua,Corporate,Ballpoint Pens,Office Supplies,Writing,5,11.36,0.05,53.96,13.51,Mobile Money
+ORD-00964,2025-01-07,Eastern,Iganga,Small Business,Tablet 10,Technology,Phones,1,319.72,0.2,255.78,24.53,Mobile Money
+ORD-01109,2025-01-07,Central,Entebbe,Corporate,Printer Laser,Technology,Printers,6,265.2,0.05,1511.64,290.84,Card
+ORD-01158,2025-01-08,Eastern,Jinja,Small Business,Headset,Technology,Accessories,3,51.26,0.0,153.78,34.41,Mobile Money
+ORD-01197,2025-01-08,Eastern,Jinja,Consumer,Tablet 10,Technology,Phones,1,359.49,0.05,341.52,60.27,Mobile Money
+ORD-00022,2025-01-09,Central,Mukono,Small Business,Ballpoint Pens,Office Supplies,Writing,5,11.82,0.15,50.24,10.24,Bank Transfer
+ORD-00139,2025-01-09,Central,Kampala,Consumer,Budget Laptop 15,Technology,Computers,4,774.41,0.0,3097.64,528.76,Card
+ORD-01036,2025-01-09,Northern,Gulu,Consumer,Mechanical Keyboard,Technology,Accessories,2,69.89,0.15,118.81,16.81,Mobile Money
+ORD-01198,2025-01-09,Central,Entebbe,Consumer,Office Desk,Furniture,Tables,2,381.01,0.1,685.82,96.76,Bank Transfer
+ORD-00196,2025-01-10,Western,Mbarara,Small Business,Office Desk,Furniture,Tables,2,406.73,0.05,772.79,104.65,Card
+ORD-00202,2025-01-10,Central,Entebbe,Small Business,Office Chair,Furniture,Chairs,2,183.21,0.05,348.1,53.08,Mobile Money
+ORD-00553,2025-01-10,Western,Mbarara,Corporate,Executive Chair,Furniture,Chairs,2,316.81,0.1,570.26,66.51,Mobile Money
+ORD-00792,2025-01-10,Eastern,Iganga,Corporate,Wireless Mouse,Technology,Accessories,3,29.14,0.0,87.42,19.94,Mobile Money
+ORD-00948,2025-01-10,Central,Kampala,Corporate,Printer Paper,Office Supplies,Paper,3,8.37,0.0,25.11,5.75,Card
+ORD-00101,2025-01-11,Central,Entebbe,Corporate,Wireless Mouse,Technology,Accessories,3,28.56,0.0,85.68,16.67,Card
+ORD-00385,2025-01-11,Northern,Arua,Consumer,Filing Cabinet,Furniture,Storage,1,213.63,0.05,202.95,33.91,Card
+ORD-00655,2025-01-11,Central,Entebbe,Consumer,Printer Laser,Technology,Printers,3,266.9,0.15,680.59,98.91,Card
+ORD-00285,2025-01-12,Eastern,Mbale,Consumer,Budget Laptop 15,Technology,Computers,1,724.38,0.05,688.16,131.26,Mobile Money
+ORD-00693,2025-01-12,Western,Mbarara,Consumer,Stapler,Office Supplies,Tools,8,14.44,0.05,109.74,24.38,Mobile Money
+ORD-00712,2025-01-12,Northern,Gulu,Small Business,Bookshelf,Furniture,Storage,5,162.47,0.1,731.12,99.14,Cash
+ORD-00397,2025-01-13,Northern,Lira,Corporate,Desk Organizer,Office Supplies,Storage,1,21.06,0.0,21.06,4.89,Mobile Money
+ORD-00785,2025-01-13,Western,Kabale,Corporate,Whiteboard,Office Supplies,Boards,4,88.93,0.0,355.72,101.25,Card
+ORD-00858,2025-01-13,Central,Entebbe,Small Business,Printer Paper,Office Supplies,Paper,5,9.53,0.0,47.65,10.24,Mobile Money
+ORD-01128,2025-01-13,Central,Entebbe,Consumer,Office Chair,Furniture,Chairs,6,181.73,0.0,1090.38,209.85,Card
+ORD-00212,2025-01-14,Northern,Gulu,Corporate,Ballpoint Pens,Office Supplies,Writing,1,11.14,0.1,10.03,2.05,Card
+ORD-00284,2025-01-14,Eastern,Mbale,Small Business,Headset,Technology,Accessories,2,55.56,0.0,111.12,19.69,Cash
+ORD-00419,2025-01-14,Central,Kampala,Small Business,Printer Paper,Office Supplies,Paper,5,8.94,0.05,42.46,9.09,Mobile Money
+ORD-00773,2025-01-14,Eastern,Mbale,Consumer,Ballpoint Pens,Office Supplies,Writing,1,11.88,0.0,11.88,3.09,Mobile Money
+ORD-00480,2025-01-15,Northern,Lira,Corporate,Office Chair,Furniture,Chairs,6,183.56,0.05,1046.29,146.48,Card
+ORD-00849,2025-01-15,Central,Kampala,Consumer,Office Desk,Furniture,Tables,4,418.18,0.1,1505.45,175.9,Mobile Money
+ORD-00980,2025-01-15,Eastern,Jinja,Corporate,Office Desk,Furniture,Tables,1,420.6,0.05,399.57,60.56,Card
+ORD-01091,2025-01-15,Central,Kampala,Corporate,Tablet 10,Technology,Phones,1,357.96,0.05,340.06,68.52,Mobile Money
+ORD-01113,2025-01-15,Northern,Lira,Consumer,Office Desk,Furniture,Tables,3,421.76,0.1,1138.75,141.08,Mobile Money
+ORD-00470,2025-01-16,Eastern,Iganga,Corporate,Mechanical Keyboard,Technology,Accessories,3,69.92,0.05,199.27,35.05,Mobile Money
+ORD-00488,2025-01-16,Northern,Arua,Small Business,Bookshelf,Furniture,Storage,1,187.58,0.0,187.58,35.52,Bank Transfer
+ORD-00495,2025-01-16,Central,Kampala,Consumer,Laptop Pro 14,Technology,Computers,2,1186.23,0.0,2372.46,515.87,Card
+ORD-00701,2025-01-16,Central,Mukono,Consumer,Printer Laser,Technology,Printers,2,278.33,0.05,528.83,81.13,Bank Transfer
+ORD-00714,2025-01-16,Northern,Gulu,Small Business,Stapler,Office Supplies,Tools,4,13.99,0.1,50.36,9.89,Mobile Money
+ORD-01015,2025-01-16,Central,Kampala,Small Business,Office Chair,Furniture,Chairs,8,178.42,0.1,1284.62,184.5,Card
+ORD-01076,2025-01-16,Central,Entebbe,Consumer,Printer Paper,Office Supplies,Paper,5,9.71,0.0,48.55,10.75,Bank Transfer
+ORD-00198,2025-01-17,Western,Mbarara,Corporate,Printer Laser,Technology,Printers,2,253.75,0.0,507.5,109.86,Mobile Money
+ORD-00312,2025-01-17,Northern,Gulu,Small Business,Headset,Technology,Accessories,3,58.06,0.05,165.47,32.92,Bank Transfer
+ORD-00333,2025-01-17,Central,Entebbe,Consumer,24-inch Monitor,Technology,Accessories,8,199.58,0.05,1516.81,275.87,Card
+ORD-00549,2025-01-17,Eastern,Jinja,Consumer,Office Desk,Furniture,Tables,4,425.66,0.15,1447.24,139.72,Cash
+ORD-00985,2025-01-17,Eastern,Jinja,Consumer,Headset,Technology,Accessories,1,57.29,0.0,57.29,12.93,Card
+ORD-00204,2025-01-18,Northern,Lira,Consumer,Printer Laser,Technology,Printers,4,246.71,0.05,937.5,144.13,Cash
+ORD-00353,2025-01-18,Central,Entebbe,Consumer,Laptop Pro 14,Technology,Computers,2,1296.48,0.05,2463.31,487.3,Card
+ORD-00430,2025-01-18,Central,Kampala,Corporate,Office Chair,Furniture,Chairs,1,176.79,0.05,167.95,23.34,Card
+ORD-00482,2025-01-18,Western,Kabale,Consumer,Notebook Pack,Office Supplies,Paper,2,17.05,0.1,30.69,5.45,Cash
+ORD-00556,2025-01-18,Central,Kampala,Corporate,Headset,Technology,Accessories,5,52.32,0.0,261.6,52.4,Mobile Money
+ORD-00561,2025-01-18,Western,Mbarara,Corporate,Bookshelf,Furniture,Storage,2,175.43,0.0,350.86,52.53,Bank Transfer
+ORD-00214,2025-01-19,Eastern,Mbale,Corporate,Stapler,Office Supplies,Tools,2,14.33,0.0,28.66,7.38,Bank Transfer
+ORD-00331,2025-01-19,Northern,Arua,Corporate,Budget Laptop 15,Technology,Computers,1,840.16,0.05,798.15,153.78,Mobile Money
+ORD-00167,2025-01-21,Central,Mukono,Consumer,Ballpoint Pens,Office Supplies,Writing,3,11.51,0.15,29.35,6.04,Bank Transfer
+ORD-00269,2025-01-21,Western,Kabale,Corporate,Mechanical Keyboard,Technology,Accessories,2,67.84,0.05,128.9,22.5,Card
+ORD-00290,2025-01-21,Eastern,Iganga,Small Business,Filing Cabinet,Furniture,Storage,10,229.95,0.0,2299.5,377.44,Card
+ORD-00879,2025-01-21,Central,Entebbe,Small Business,Printer Paper,Office Supplies,Paper,4,8.36,0.05,31.77,7.13,Bank Transfer
+ORD-00135,2025-01-22,Central,Mukono,Small Business,Stapler,Office Supplies,Tools,8,15.56,0.0,124.48,34.94,Bank Transfer
+ORD-00695,2025-01-22,Central,Kampala,Small Business,Tablet 10,Technology,Phones,2,343.77,0.0,687.54,154.87,Card
+ORD-00724,2025-01-22,Northern,Gulu,Consumer,Printer Paper,Office Supplies,Paper,2,8.44,0.1,15.19,3.03,Card
+ORD-00845,2025-01-22,Eastern,Mbale,Small Business,Printer Laser,Technology,Printers,1,268.63,0.05,255.2,44.79,Mobile Money
+ORD-00978,2025-01-22,Western,Mbarara,Consumer,Whiteboard,Office Supplies,Boards,4,91.14,0.15,309.88,57.86,Bank Transfer
+ORD-00768,2025-01-23,Eastern,Jinja,Corporate,Ballpoint Pens,Office Supplies,Writing,1,11.72,0.0,11.72,3.15,Cash
+ORD-01105,2025-01-23,Eastern,Jinja,Consumer,Headset,Technology,Accessories,1,55.1,0.0,55.1,10.42,Mobile Money
+ORD-00621,2025-01-24,Central,Kampala,Consumer,Laptop Pro 14,Technology,Computers,2,1156.68,0.2,1850.69,208.45,Cash
+ORD-01103,2025-01-24,Eastern,Mbale,Corporate,Notebook Pack,Office Supplies,Paper,1,16.74,0.05,15.9,3.19,Mobile Money
+ORD-00046,2025-01-25,Eastern,Jinja,Small Business,Mechanical Keyboard,Technology,Accessories,6,67.55,0.1,364.77,63.85,Bank Transfer
+ORD-00092,2025-01-25,Western,Fort Portal,Consumer,Budget Laptop 15,Technology,Computers,2,832.22,0.05,1581.22,288.0,Bank Transfer
+ORD-00187,2025-01-25,Central,Kampala,Consumer,Filing Cabinet,Furniture,Storage,8,223.07,0.05,1695.33,250.52,Mobile Money
+ORD-00320,2025-01-25,Central,Mukono,Consumer,Notebook Pack,Office Supplies,Paper,1,19.44,0.0,19.44,4.72,Cash
+ORD-00771,2025-01-25,Northern,Gulu,Corporate,Office Desk,Furniture,Tables,3,438.38,0.0,1315.14,215.73,Mobile Money
+ORD-00900,2025-01-25,Central,Mukono,Corporate,Printer Paper,Office Supplies,Paper,3,8.57,0.05,24.42,5.48,Card
+ORD-00967,2025-01-25,Central,Entebbe,Small Business,24-inch Monitor,Technology,Accessories,6,207.95,0.1,1122.93,150.29,Card
+ORD-00301,2025-01-26,Western,Kabale,Consumer,Bookshelf,Furniture,Storage,2,175.76,0.2,281.22,25.24,Card
+ORD-01125,2025-01-26,Western,Mbarara,Consumer,Laptop Pro 14,Technology,Computers,1,1169.73,0.05,1111.24,204.29,Card
+ORD-00026,2025-01-27,Western,Fort Portal,Consumer,Laptop Pro 14,Technology,Computers,3,1189.05,0.05,3388.79,641.65,Mobile Money
+ORD-00512,2025-01-27,Northern,Arua,Small Business,Printer Laser,Technology,Printers,3,275.12,0.05,784.09,123.82,Card
+ORD-00530,2025-01-27,Central,Mukono,Corporate,Mechanical Keyboard,Technology,Accessories,1,77.16,0.05,73.3,11.61,Mobile Money
+ORD-00590,2025-01-27,Northern,Arua,Corporate,Tablet 10,Technology,Phones,5,337.29,0.0,1686.45,380.38,Card
+ORD-01020,2025-01-27,Central,Mukono,Corporate,Ballpoint Pens,Office Supplies,Writing,3,11.39,0.05,32.46,8.36,Mobile Money
+ORD-00055,2025-01-28,Central,Kampala,Small Business,Mechanical Keyboard,Technology,Accessories,10,72.42,0.1,651.78,95.25,Cash
+ORD-00894,2025-01-28,Western,Kabale,Small Business,Smartphone X,Technology,Phones,10,649.61,0.0,6496.1,1126.32,Mobile Money
+ORD-01004,2025-01-28,Northern,Gulu,Consumer,24-inch Monitor,Technology,Accessories,3,213.03,0.05,607.14,121.82,Mobile Money
+ORD-01140,2025-01-28,Central,Mukono,Consumer,Mechanical Keyboard,Technology,Accessories,3,71.4,0.0,214.2,44.14,Cash
+ORD-00013,2025-01-29,Central,Mukono,Small Business,Whiteboard,Office Supplies,Boards,1,99.68,0.15,84.73,16.08,Cash
+ORD-00104,2025-01-29,Central,Mukono,Consumer,24-inch Monitor,Technology,Accessories,1,197.16,0.15,167.59,22.72,Card
+ORD-00458,2025-01-29,Northern,Gulu,Consumer,Wireless Mouse,Technology,Accessories,4,26.3,0.1,94.68,15.0,Cash
+ORD-00478,2025-01-29,Central,Entebbe,Small Business,Filing Cabinet,Furniture,Storage,2,229.39,0.05,435.84,62.03,Mobile Money
+ORD-00609,2025-01-29,Western,Mbarara,Small Business,Smartphone X,Technology,Phones,3,727.14,0.1,1963.28,347.62,Mobile Money
+ORD-00662,2025-01-29,Northern,Lira,Small Business,Printer Paper,Office Supplies,Paper,2,9.63,0.1,17.33,3.57,Card
+ORD-00266,2025-01-30,Central,Entebbe,Small Business,24-inch Monitor,Technology,Accessories,8,223.05,0.0,1784.4,367.9,Bank Transfer
+ORD-00439,2025-01-30,Central,Mukono,Small Business,Budget Laptop 15,Technology,Computers,1,750.03,0.1,675.03,116.75,Mobile Money
+ORD-00559,2025-01-30,Central,Entebbe,Consumer,Headset,Technology,Accessories,10,55.57,0.15,472.34,62.9,Card
+ORD-00974,2025-01-30,Northern,Gulu,Consumer,Smartphone X,Technology,Phones,10,720.57,0.1,6485.13,1117.51,Mobile Money
+ORD-00877,2025-01-31,Central,Kampala,Consumer,Executive Chair,Furniture,Chairs,2,335.43,0.15,570.23,56.88,Card
+ORD-00913,2025-01-31,Central,Entebbe,Small Business,Filing Cabinet,Furniture,Storage,5,227.66,0.0,1138.3,220.35,Card
+ORD-00532,2025-02-01,Northern,Arua,Corporate,Tablet 10,Technology,Phones,5,349.32,0.05,1659.27,332.19,Bank Transfer
+ORD-00534,2025-02-01,Central,Mukono,Corporate,Stapler,Office Supplies,Tools,1,14.93,0.05,14.18,3.11,Card
+ORD-00828,2025-02-01,Central,Entebbe,Consumer,Budget Laptop 15,Technology,Computers,2,736.08,0.05,1398.55,266.59,Mobile Money
+ORD-00923,2025-02-01,Western,Fort Portal,Consumer,Bookshelf,Furniture,Storage,2,178.94,0.0,357.88,59.27,Mobile Money
+ORD-00025,2025-02-02,Eastern,Iganga,Consumer,Whiteboard,Office Supplies,Boards,3,96.37,0.0,289.11,82.66,Bank Transfer
+ORD-00880,2025-02-02,Central,Mukono,Corporate,Wireless Mouse,Technology,Accessories,2,27.73,0.1,49.91,6.84,Bank Transfer
+ORD-00578,2025-02-03,Western,Kabale,Consumer,Executive Chair,Furniture,Chairs,2,297.09,0.0,594.18,99.5,Mobile Money
+ORD-00706,2025-02-03,Central,Entebbe,Corporate,Stapler,Office Supplies,Tools,1,15.24,0.05,14.48,2.86,Mobile Money
+ORD-00277,2025-02-04,Central,Kampala,Consumer,Printer Paper,Office Supplies,Paper,10,9.71,0.0,97.1,21.29,Mobile Money
+ORD-01111,2025-02-04,Western,Mbarara,Small Business,Wireless Mouse,Technology,Accessories,3,27.88,0.05,79.46,13.65,Mobile Money
+ORD-00179,2025-02-05,Western,Mbarara,Corporate,Printer Paper,Office Supplies,Paper,1,8.42,0.05,8.0,1.79,Mobile Money
+ORD-00451,2025-02-05,Western,Fort Portal,Small Business,Notebook Pack,Office Supplies,Paper,4,18.3,0.2,58.56,8.83,Card
+ORD-01018,2025-02-05,Western,Mbarara,Small Business,Printer Laser,Technology,Printers,1,271.05,0.0,271.05,54.1,Card
+ORD-00147,2025-02-06,Western,Mbarara,Consumer,Wireless Mouse,Technology,Accessories,1,26.75,0.05,25.41,4.4,Bank Transfer
+ORD-00253,2025-02-06,Central,Kampala,Consumer,Whiteboard,Office Supplies,Boards,5,87.85,0.05,417.29,99.93,Card
+ORD-00346,2025-02-06,Northern,Lira,Corporate,Budget Laptop 15,Technology,Computers,2,792.34,0.1,1426.21,201.24,Card
+ORD-00920,2025-02-06,Central,Mukono,Consumer,Filing Cabinet,Furniture,Storage,2,247.69,0.05,470.61,66.3,Mobile Money
+ORD-00241,2025-02-07,Central,Kampala,Consumer,Printer Laser,Technology,Printers,1,272.58,0.05,258.95,45.68,Card
+ORD-00591,2025-02-07,Central,Kampala,Consumer,Office Chair,Furniture,Chairs,1,198.56,0.2,158.85,11.75,Bank Transfer
+ORD-00754,2025-02-07,Central,Kampala,Small Business,Ballpoint Pens,Office Supplies,Writing,2,12.02,0.1,21.64,4.41,Cash
+ORD-01141,2025-02-07,Central,Mukono,Small Business,Office Desk,Furniture,Tables,5,396.66,0.0,1983.3,376.55,Card
+ORD-00030,2025-02-08,Central,Mukono,Corporate,Wireless Mouse,Technology,Accessories,1,26.13,0.05,24.82,3.75,Mobile Money
+ORD-00110,2025-02-08,Central,Entebbe,Consumer,24-inch Monitor,Technology,Accessories,1,193.38,0.2,154.7,14.99,Cash
+ORD-00240,2025-02-08,Western,Mbarara,Consumer,Printer Paper,Office Supplies,Paper,1,9.25,0.15,7.86,1.46,Card
+ORD-00628,2025-02-08,Central,Entebbe,Consumer,Stapler,Office Supplies,Tools,5,15.8,0.05,75.05,19.59,Cash
+ORD-01099,2025-02-08,Northern,Gulu,Consumer,Ballpoint Pens,Office Supplies,Writing,5,11.93,0.1,53.68,11.04,Mobile Money
+ORD-00144,2025-02-10,Northern,Lira,Corporate,Headset,Technology,Accessories,2,51.31,0.1,92.36,16.01,Cash
+ORD-00341,2025-02-10,Central,Kampala,Consumer,Printer Laser,Technology,Printers,3,241.28,0.1,651.46,113.44,Mobile Money
+ORD-00012,2025-02-11,Eastern,Iganga,Corporate,Tablet 10,Technology,Phones,2,350.64,0.05,666.22,105.46,Card
+ORD-00073,2025-02-11,Central,Entebbe,Corporate,Headset,Technology,Accessories,3,53.73,0.05,153.13,31.15,Mobile Money
+ORD-00084,2025-02-11,Central,Mukono,Consumer,Printer Paper,Office Supplies,Paper,3,9.57,0.05,27.27,6.74,Mobile Money
+ORD-00175,2025-02-11,Eastern,Iganga,Corporate,Office Chair,Furniture,Chairs,3,174.0,0.2,417.6,29.44,Card
+ORD-00184,2025-02-11,Eastern,Jinja,Consumer,Wireless Mouse,Technology,Accessories,3,28.99,0.05,82.62,13.09,Cash
+ORD-00195,2025-02-11,Northern,Gulu,Consumer,Stapler,Office Supplies,Tools,8,14.56,0.1,104.83,22.7,Mobile Money
+ORD-00560,2025-02-11,Northern,Gulu,Consumer,Whiteboard,Office Supplies,Boards,1,89.98,0.0,89.98,19.77,Mobile Money
+ORD-00585,2025-02-11,Western,Mbarara,Consumer,Stapler,Office Supplies,Tools,1,15.45,0.05,14.68,3.59,Bank Transfer
+ORD-01148,2025-02-11,Eastern,Mbale,Consumer,Executive Chair,Furniture,Chairs,1,325.13,0.1,292.62,38.89,Card
+ORD-00225,2025-02-12,Central,Entebbe,Consumer,Stapler,Office Supplies,Tools,3,14.9,0.0,44.7,11.12,Bank Transfer
+ORD-00328,2025-02-12,Western,Kabale,Consumer,Mechanical Keyboard,Technology,Accessories,3,75.65,0.0,226.95,45.41,Mobile Money
+ORD-00380,2025-02-12,Eastern,Mbale,Consumer,Headset,Technology,Accessories,8,54.9,0.05,417.24,71.88,Card
+ORD-00460,2025-02-12,Central,Entebbe,Corporate,Ballpoint Pens,Office Supplies,Writing,2,11.57,0.0,23.14,6.26,Bank Transfer
+ORD-00014,2025-02-13,Central,Entebbe,Consumer,Office Desk,Furniture,Tables,2,400.57,0.0,801.14,152.82,Card
+ORD-00365,2025-02-13,Northern,Arua,Corporate,Office Chair,Furniture,Chairs,2,174.9,0.05,332.31,45.46,Card
+ORD-00595,2025-02-13,Northern,Lira,Consumer,Desk Organizer,Office Supplies,Storage,2,23.54,0.0,47.08,12.4,Mobile Money
+ORD-01034,2025-02-13,Western,Fort Portal,Consumer,Desk Organizer,Office Supplies,Storage,2,21.82,0.0,43.64,11.32,Mobile Money
+ORD-01058,2025-02-13,Central,Entebbe,Consumer,Whiteboard,Office Supplies,Boards,2,93.3,0.1,167.94,30.92,Card
+ORD-00265,2025-02-14,Central,Mukono,Corporate,Notebook Pack,Office Supplies,Paper,1,17.02,0.05,16.17,3.15,Card
+ORD-00496,2025-02-14,Eastern,Mbale,Corporate,Smartphone X,Technology,Phones,3,644.49,0.0,1933.47,348.62,Mobile Money
+ORD-00577,2025-02-14,Central,Entebbe,Consumer,Mechanical Keyboard,Technology,Accessories,2,71.67,0.1,129.01,18.36,Mobile Money
+ORD-00056,2025-02-15,Central,Entebbe,Small Business,Desk Organizer,Office Supplies,Storage,2,23.48,0.05,44.61,8.88,Card
+ORD-00316,2025-02-15,Central,Kampala,Small Business,Mechanical Keyboard,Technology,Accessories,2,71.54,0.15,121.62,14.16,Mobile Money
+ORD-00748,2025-02-15,Central,Mukono,Corporate,Printer Paper,Office Supplies,Paper,1,8.7,0.1,7.83,1.65,Cash
+ORD-00053,2025-02-16,Northern,Lira,Consumer,Printer Paper,Office Supplies,Paper,2,9.12,0.05,17.33,4.42,Mobile Money
+ORD-00637,2025-02-16,Western,Fort Portal,Consumer,Bookshelf,Furniture,Storage,5,180.84,0.05,858.99,135.51,Mobile Money
+ORD-01006,2025-02-16,Eastern,Iganga,Corporate,Headset,Technology,Accessories,5,52.41,0.05,248.95,48.54,Mobile Money
+ORD-00364,2025-02-17,Central,Kampala,Consumer,24-inch Monitor,Technology,Accessories,3,215.96,0.0,647.88,139.62,Mobile Money
+ORD-00027,2025-02-18,Central,Entebbe,Consumer,Notebook Pack,Office Supplies,Paper,6,16.6,0.0,99.6,28.1,Bank Transfer
+ORD-00094,2025-02-18,Central,Kampala,Consumer,Stapler,Office Supplies,Tools,3,15.08,0.15,38.45,6.35,Mobile Money
+ORD-00544,2025-02-18,Western,Mbarara,Consumer,Bookshelf,Furniture,Storage,3,179.67,0.1,485.11,60.84,Mobile Money
+ORD-01117,2025-02-18,Central,Mukono,Consumer,Budget Laptop 15,Technology,Computers,5,804.99,0.2,3219.96,354.44,Cash
+ORD-00006,2025-02-19,Northern,Lira,Consumer,Smartphone X,Technology,Phones,1,638.26,0.05,606.35,118.68,Card
+ORD-01146,2025-02-19,Northern,Lira,Consumer,Whiteboard,Office Supplies,Boards,1,101.24,0.05,96.18,20.74,Bank Transfer
+ORD-00867,2025-02-20,Central,Mukono,Corporate,Laptop Pro 14,Technology,Computers,1,1169.01,0.05,1110.56,173.17,Mobile Money
+ORD-00764,2025-02-21,Northern,Gulu,Small Business,Whiteboard,Office Supplies,Boards,1,101.61,0.05,96.53,24.17,Mobile Money
+ORD-00819,2025-02-21,Central,Mukono,Corporate,Bookshelf,Furniture,Storage,2,172.79,0.1,311.02,44.26,Cash
+ORD-01062,2025-02-21,Northern,Arua,Corporate,Notebook Pack,Office Supplies,Paper,1,17.86,0.0,17.86,4.27,Mobile Money
+ORD-01112,2025-02-21,Central,Entebbe,Consumer,Printer Laser,Technology,Printers,2,245.02,0.05,465.54,82.96,Mobile Money
+ORD-00018,2025-02-22,Eastern,Mbale,Consumer,Mechanical Keyboard,Technology,Accessories,1,69.03,0.0,69.03,15.06,Bank Transfer
+ORD-00670,2025-02-22,Central,Mukono,Consumer,Office Desk,Furniture,Tables,4,410.64,0.1,1478.3,173.7,Mobile Money
+ORD-00294,2025-02-23,Eastern,Iganga,Consumer,Executive Chair,Furniture,Chairs,1,311.67,0.0,311.67,45.34,Card
+ORD-00746,2025-02-23,Western,Kabale,Corporate,Office Chair,Furniture,Chairs,4,197.79,0.1,712.04,96.22,Mobile Money
+ORD-00778,2025-02-23,Central,Mukono,Corporate,Tablet 10,Technology,Phones,1,360.75,0.0,360.75,70.33,Bank Transfer
+ORD-01040,2025-02-23,Eastern,Jinja,Corporate,24-inch Monitor,Technology,Accessories,8,194.05,0.0,1552.4,267.58,Mobile Money
+ORD-00091,2025-02-24,Central,Mukono,Consumer,Printer Paper,Office Supplies,Paper,1,9.44,0.0,9.44,2.01,Card
+ORD-00146,2025-02-24,Eastern,Jinja,Consumer,Printer Laser,Technology,Printers,5,241.02,0.05,1144.84,182.58,Card
+ORD-00476,2025-02-24,Central,Mukono,Consumer,Notebook Pack,Office Supplies,Paper,1,16.6,0.05,15.77,3.56,Cash
+ORD-00765,2025-02-24,Central,Entebbe,Consumer,Ballpoint Pens,Office Supplies,Writing,5,11.71,0.1,52.7,11.43,Bank Transfer
+ORD-00999,2025-02-24,Western,Mbarara,Corporate,Mechanical Keyboard,Technology,Accessories,4,69.33,0.05,263.45,50.64,Card
+ORD-01150,2025-02-24,Northern,Arua,Corporate,Stapler,Office Supplies,Tools,2,15.35,0.05,29.16,6.62,Card
+ORD-00387,2025-02-25,Central,Mukono,Small Business,Stapler,Office Supplies,Tools,2,16.14,0.0,32.28,7.27,Cash
+ORD-00598,2025-02-25,Eastern,Jinja,Consumer,Mechanical Keyboard,Technology,Accessories,4,73.66,0.0,294.64,53.32,Card
+ORD-00694,2025-02-25,Northern,Gulu,Consumer,Filing Cabinet,Furniture,Storage,1,235.56,0.1,212.0,29.08,Mobile Money
+ORD-00733,2025-02-25,Eastern,Mbale,Consumer,Budget Laptop 15,Technology,Computers,2,718.09,0.0,1436.18,263.73,Bank Transfer
+ORD-00798,2025-02-25,Western,Mbarara,Consumer,Smartphone X,Technology,Phones,1,652.54,0.05,619.91,125.82,Card
+ORD-00855,2025-02-25,Central,Mukono,Consumer,Budget Laptop 15,Technology,Computers,6,788.34,0.15,4020.53,509.45,Card
+ORD-01096,2025-02-25,Central,Kampala,Consumer,Notebook Pack,Office Supplies,Paper,1,16.64,0.0,16.64,4.67,Cash
+ORD-01074,2025-02-26,Central,Entebbe,Corporate,Desk Organizer,Office Supplies,Storage,1,23.61,0.1,21.25,4.61,Card
+ORD-00052,2025-02-27,Central,Kampala,Corporate,Printer Paper,Office Supplies,Paper,5,9.71,0.05,46.12,9.15,Bank Transfer
+ORD-00398,2025-02-27,Central,Mukono,Corporate,Bookshelf,Furniture,Storage,6,186.89,0.05,1065.27,170.6,Mobile Money
+ORD-00420,2025-02-27,Northern,Gulu,Corporate,Budget Laptop 15,Technology,Computers,1,768.49,0.05,730.07,116.42,Bank Transfer
+ORD-00904,2025-02-27,Western,Kabale,Small Business,Filing Cabinet,Furniture,Storage,2,233.86,0.05,444.33,65.15,Mobile Money
+ORD-00962,2025-02-27,Eastern,Iganga,Small Business,Filing Cabinet,Furniture,Storage,1,248.11,0.05,235.7,36.71,Card
+ORD-01160,2025-02-27,Eastern,Jinja,Consumer,Executive Chair,Furniture,Chairs,1,341.06,0.1,306.95,37.26,Card
+ORD-01190,2025-02-27,Northern,Arua,Small Business,Stapler,Office Supplies,Tools,10,15.58,0.1,140.22,26.57,Card
+ORD-00227,2025-02-28,Eastern,Iganga,Corporate,Stapler,Office Supplies,Tools,1,14.2,0.0,14.2,3.37,Card
+ORD-00508,2025-02-28,Western,Mbarara,Corporate,Laptop Pro 14,Technology,Computers,3,1279.37,0.0,3838.11,796.4,Mobile Money
+ORD-00672,2025-02-28,Western,Kabale,Corporate,Budget Laptop 15,Technology,Computers,1,815.34,0.15,693.04,82.69,Card
+ORD-01169,2025-02-28,Central,Entebbe,Corporate,Stapler,Office Supplies,Tools,2,14.89,0.0,29.78,6.49,Mobile Money
+ORD-00449,2025-03-01,Northern,Arua,Consumer,Mechanical Keyboard,Technology,Accessories,1,73.89,0.0,73.89,16.84,Bank Transfer
+ORD-01025,2025-03-01,Eastern,Iganga,Consumer,Budget Laptop 15,Technology,Computers,4,790.15,0.1,2844.54,478.04,Mobile Money
+ORD-01065,2025-03-01,Eastern,Iganga,Corporate,Wireless Mouse,Technology,Accessories,5,29.52,0.0,147.6,28.89,Card
+ORD-00414,2025-03-02,Northern,Lira,Consumer,Bookshelf,Furniture,Storage,1,163.58,0.0,163.58,28.52,Bank Transfer
+ORD-01051,2025-03-02,Central,Mukono,Consumer,Desk Organizer,Office Supplies,Storage,1,20.78,0.0,20.78,5.75,Card
+ORD-00358,2025-03-03,Western,Mbarara,Consumer,Wireless Mouse,Technology,Accessories,3,28.85,0.05,82.22,13.51,Cash
+ORD-00991,2025-03-03,Central,Mukono,Consumer,Tablet 10,Technology,Phones,6,353.16,0.1,1907.06,316.61,Bank Transfer
+ORD-00009,2025-03-04,Western,Mbarara,Consumer,Printer Laser,Technology,Printers,4,242.28,0.1,872.21,129.45,Bank Transfer
+ORD-00977,2025-03-04,Central,Entebbe,Consumer,Headset,Technology,Accessories,1,54.03,0.15,45.93,5.74,Card
+ORD-01180,2025-03-05,Eastern,Jinja,Small Business,Office Desk,Furniture,Tables,2,418.7,0.1,753.66,86.64,Bank Transfer
+ORD-00193,2025-03-06,Central,Entebbe,Consumer,Desk Organizer,Office Supplies,Storage,3,20.47,0.0,61.41,13.25,Mobile Money
+ORD-00489,2025-03-06,Central,Mukono,Consumer,Office Desk,Furniture,Tables,4,438.78,0.05,1667.36,234.86,Card
+ORD-00527,2025-03-06,Western,Kabale,Consumer,Stapler,Office Supplies,Tools,4,14.28,0.15,48.55,8.29,Mobile Money
+ORD-01192,2025-03-07,Northern,Lira,Consumer,Bookshelf,Furniture,Storage,1,171.1,0.15,145.44,15.41,Mobile Money
+ORD-00602,2025-03-08,Central,Mukono,Consumer,Bookshelf,Furniture,Storage,2,166.09,0.0,332.18,56.54,Mobile Money
+ORD-00620,2025-03-08,Eastern,Mbale,Corporate,Smartphone X,Technology,Phones,4,707.71,0.0,2830.84,618.68,Card
+ORD-00949,2025-03-08,Central,Mukono,Small Business,Executive Chair,Furniture,Chairs,3,314.82,0.0,944.46,180.04,Bank Transfer
+ORD-00072,2025-03-09,Central,Kampala,Corporate,Bookshelf,Furniture,Storage,2,181.63,0.05,345.1,51.78,Card
+ORD-00475,2025-03-09,Central,Kampala,Corporate,Budget Laptop 15,Technology,Computers,4,820.68,0.05,3118.58,575.38,Card
+ORD-00627,2025-03-09,Western,Mbarara,Corporate,Desk Organizer,Office Supplies,Storage,2,22.13,0.1,39.83,8.6,Card
+ORD-00636,2025-03-09,Central,Kampala,Consumer,Tablet 10,Technology,Phones,10,328.11,0.1,2952.99,398.68,Mobile Money
+ORD-01019,2025-03-09,Central,Entebbe,Corporate,Office Desk,Furniture,Tables,3,416.7,0.15,1062.58,108.69,Bank Transfer
+ORD-00342,2025-03-10,Central,Entebbe,Corporate,Printer Laser,Technology,Printers,2,248.16,0.05,471.5,86.13,Mobile Money
+ORD-00631,2025-03-10,Western,Mbarara,Corporate,Stapler,Office Supplies,Tools,1,14.44,0.0,14.44,4.06,Cash
+ORD-01039,2025-03-10,Central,Mukono,Corporate,24-inch Monitor,Technology,Accessories,3,195.69,0.0,587.07,116.17,Mobile Money
+ORD-00210,2025-03-11,Western,Mbarara,Consumer,Mechanical Keyboard,Technology,Accessories,2,75.23,0.1,135.41,19.21,Card
+ORD-00170,2025-03-12,Central,Kampala,Small Business,Executive Chair,Furniture,Chairs,1,316.14,0.15,268.72,24.13,Mobile Money
+ORD-00334,2025-03-12,Central,Entebbe,Small Business,Budget Laptop 15,Technology,Computers,2,753.48,0.0,1506.96,315.57,Card
+ORD-00437,2025-03-12,Central,Kampala,Consumer,24-inch Monitor,Technology,Accessories,4,216.51,0.05,822.74,148.35,Mobile Money
+ORD-00521,2025-03-12,Eastern,Mbale,Small Business,Tablet 10,Technology,Phones,4,342.09,0.0,1368.36,314.08,Mobile Money
+ORD-00739,2025-03-12,Central,Kampala,Corporate,Office Chair,Furniture,Chairs,1,183.97,0.15,156.37,13.93,Card
+ORD-01108,2025-03-12,Central,Kampala,Corporate,Mechanical Keyboard,Technology,Accessories,1,73.44,0.05,69.77,13.6,Mobile Money
+ORD-00645,2025-03-13,Eastern,Jinja,Corporate,Smartphone X,Technology,Phones,5,688.55,0.05,3270.61,656.27,Bank Transfer
+ORD-00774,2025-03-13,Eastern,Iganga,Consumer,Executive Chair,Furniture,Chairs,1,316.54,0.0,316.54,55.8,Card
+ORD-00825,2025-03-13,Central,Kampala,Consumer,Laptop Pro 14,Technology,Computers,1,1347.84,0.05,1280.45,204.56,Cash
+ORD-00339,2025-03-14,Western,Fort Portal,Consumer,Smartphone X,Technology,Phones,8,635.72,0.0,5085.76,996.89,Cash
+ORD-00752,2025-03-14,Western,Kabale,Consumer,Office Chair,Furniture,Chairs,1,180.27,0.05,171.26,27.96,Mobile Money
+ORD-01005,2025-03-14,Central,Entebbe,Consumer,Stapler,Office Supplies,Tools,3,16.18,0.05,46.11,9.63,Bank Transfer
+ORD-00218,2025-03-15,Western,Fort Portal,Consumer,Mechanical Keyboard,Technology,Accessories,1,76.72,0.15,65.21,9.37,Mobile Money
+ORD-00309,2025-03-15,Northern,Lira,Small Business,Office Desk,Furniture,Tables,1,388.87,0.1,349.98,43.94,Mobile Money
+ORD-00493,2025-03-16,Eastern,Iganga,Consumer,Wireless Mouse,Technology,Accessories,1,28.96,0.0,28.96,5.55,Mobile Money
+ORD-00883,2025-03-16,Central,Entebbe,Corporate,Budget Laptop 15,Technology,Computers,3,748.79,0.15,1909.41,261.31,Mobile Money
+ORD-00141,2025-03-17,Western,Kabale,Small Business,Ballpoint Pens,Office Supplies,Writing,2,11.7,0.0,23.4,6.33,Mobile Money
+ORD-00267,2025-03-18,Eastern,Mbale,Consumer,Headset,Technology,Accessories,1,57.41,0.2,45.93,5.78,Card
+ORD-00840,2025-03-18,Central,Mukono,Corporate,Wireless Mouse,Technology,Accessories,3,27.92,0.05,79.57,12.4,Cash
+ORD-00684,2025-03-19,Central,Mukono,Corporate,Tablet 10,Technology,Phones,1,313.78,0.0,313.78,60.88,Card
+ORD-00702,2025-03-20,Central,Entebbe,Small Business,Ballpoint Pens,Office Supplies,Writing,2,12.5,0.15,21.25,3.88,Card
+ORD-00868,2025-03-20,Central,Mukono,Consumer,Whiteboard,Office Supplies,Boards,2,92.86,0.05,176.43,39.84,Card
+ORD-01118,2025-03-20,Northern,Arua,Corporate,24-inch Monitor,Technology,Accessories,8,193.82,0.0,1550.56,314.36,Cash
+ORD-00190,2025-03-21,Northern,Gulu,Consumer,Mechanical Keyboard,Technology,Accessories,3,68.92,0.0,206.76,37.89,Card
+ORD-00897,2025-03-21,Central,Entebbe,Consumer,Wireless Mouse,Technology,Accessories,6,27.58,0.0,165.48,35.79,Bank Transfer
+ORD-00915,2025-03-21,Eastern,Jinja,Consumer,Mechanical Keyboard,Technology,Accessories,4,75.34,0.05,286.29,52.62,Mobile Money
+ORD-01083,2025-03-21,Western,Mbarara,Consumer,Office Chair,Furniture,Chairs,1,192.18,0.15,163.35,16.31,Card
+ORD-00126,2025-03-22,Central,Kampala,Consumer,Whiteboard,Office Supplies,Boards,5,97.71,0.0,488.55,124.55,Bank Transfer
+ORD-00259,2025-03-22,Northern,Arua,Corporate,Office Desk,Furniture,Tables,2,380.07,0.05,722.13,94.47,Mobile Money
+ORD-00914,2025-03-22,Central,Entebbe,Small Business,Whiteboard,Office Supplies,Boards,2,88.19,0.05,167.56,34.21,Mobile Money
+ORD-00114,2025-03-23,Northern,Arua,Consumer,Wireless Mouse,Technology,Accessories,2,25.93,0.1,46.67,7.44,Mobile Money
+ORD-00163,2025-03-23,Western,Kabale,Consumer,Whiteboard,Office Supplies,Boards,5,91.91,0.0,459.55,120.03,Card
+ORD-00223,2025-03-23,Central,Mukono,Consumer,24-inch Monitor,Technology,Accessories,3,225.86,0.05,643.7,117.98,Mobile Money
+ORD-00538,2025-03-23,Central,Entebbe,Corporate,Stapler,Office Supplies,Tools,1,15.0,0.0,15.0,3.84,Mobile Money
+ORD-00630,2025-03-23,Central,Kampala,Consumer,Tablet 10,Technology,Phones,1,343.99,0.0,343.99,60.51,Bank Transfer
+ORD-00728,2025-03-23,Central,Entebbe,Corporate,Printer Laser,Technology,Printers,3,245.43,0.05,699.48,107.98,Card
+ORD-01173,2025-03-23,Northern,Gulu,Consumer,Executive Chair,Furniture,Chairs,2,329.92,0.15,560.86,55.67,Card
+ORD-00569,2025-03-24,Central,Entebbe,Consumer,Filing Cabinet,Furniture,Storage,8,213.33,0.15,1450.64,141.5,Mobile Money
+ORD-00939,2025-03-24,Central,Mukono,Corporate,Stapler,Office Supplies,Tools,4,15.66,0.0,62.64,17.06,Mobile Money
+ORD-01095,2025-03-24,Northern,Gulu,Corporate,Office Desk,Furniture,Tables,4,409.34,0.05,1555.49,197.23,Card
+ORD-00386,2025-03-25,Western,Fort Portal,Corporate,Printer Laser,Technology,Printers,1,245.67,0.0,245.67,44.82,Mobile Money
+ORD-00987,2025-03-25,Central,Mukono,Consumer,Budget Laptop 15,Technology,Computers,3,842.02,0.0,2526.06,493.93,Cash
+ORD-00515,2025-03-26,Central,Entebbe,Consumer,Wireless Mouse,Technology,Accessories,5,28.78,0.15,122.32,14.44,Mobile Money
+ORD-00612,2025-03-26,Central,Entebbe,Corporate,Ballpoint Pens,Office Supplies,Writing,2,11.72,0.05,22.27,5.34,Cash
+ORD-00654,2025-03-26,Western,Kabale,Small Business,Stapler,Office Supplies,Tools,2,14.46,0.2,23.14,3.59,Card
+ORD-00907,2025-03-26,Western,Fort Portal,Corporate,Mechanical Keyboard,Technology,Accessories,1,75.13,0.0,75.13,16.57,Card
+ORD-00192,2025-03-27,Western,Kabale,Corporate,Budget Laptop 15,Technology,Computers,1,816.23,0.05,775.42,141.03,Mobile Money
+ORD-00209,2025-03-27,Western,Fort Portal,Consumer,Filing Cabinet,Furniture,Storage,4,246.86,0.0,987.44,161.21,Mobile Money
+ORD-00304,2025-03-27,Northern,Lira,Consumer,Executive Chair,Furniture,Chairs,1,323.12,0.05,306.96,50.22,Bank Transfer
+ORD-00674,2025-03-27,Eastern,Mbale,Corporate,Bookshelf,Furniture,Storage,5,173.6,0.0,868.0,134.49,Card
+ORD-00852,2025-03-27,Eastern,Jinja,Small Business,Laptop Pro 14,Technology,Computers,2,1340.93,0.0,2681.86,553.04,Mobile Money
+ORD-01008,2025-03-27,Western,Fort Portal,Corporate,24-inch Monitor,Technology,Accessories,3,193.33,0.1,521.99,84.1,Mobile Money
+ORD-01045,2025-03-27,Eastern,Iganga,Consumer,Printer Paper,Office Supplies,Paper,4,8.73,0.0,34.92,9.86,Card
+ORD-01077,2025-03-27,Central,Mukono,Consumer,Printer Paper,Office Supplies,Paper,10,9.3,0.0,93.0,20.57,Bank Transfer
+ORD-01139,2025-03-27,Central,Mukono,Small Business,Office Chair,Furniture,Chairs,4,177.22,0.1,637.99,74.69,Bank Transfer
+ORD-00250,2025-03-28,Central,Entebbe,Consumer,Desk Organizer,Office Supplies,Storage,2,20.4,0.05,38.76,7.87,Bank Transfer
+ORD-00352,2025-03-28,Central,Entebbe,Corporate,Headset,Technology,Accessories,1,52.05,0.0,52.05,8.85,Cash
+ORD-00531,2025-03-28,Northern,Lira,Small Business,Wireless Mouse,Technology,Accessories,3,26.41,0.0,79.23,17.93,Bank Transfer
+ORD-00206,2025-03-29,Central,Entebbe,Consumer,Office Desk,Furniture,Tables,4,417.34,0.1,1502.42,165.6,Mobile Money
+ORD-00497,2025-03-29,Central,Kampala,Consumer,Printer Paper,Office Supplies,Paper,2,8.72,0.15,14.82,2.54,Mobile Money
+ORD-00816,2025-03-29,Eastern,Jinja,Small Business,Printer Paper,Office Supplies,Paper,2,9.66,0.2,15.46,2.34,Bank Transfer
+ORD-00082,2025-03-30,Northern,Arua,Corporate,Printer Laser,Technology,Printers,2,251.74,0.05,478.31,91.21,Mobile Money
+ORD-00535,2025-03-30,Northern,Lira,Consumer,Laptop Pro 14,Technology,Computers,5,1222.08,0.1,5499.36,746.81,Card
+ORD-00719,2025-03-30,Northern,Arua,Small Business,Headset,Technology,Accessories,2,56.2,0.0,112.4,25.68,Mobile Money
+ORD-00787,2025-03-30,Eastern,Mbale,Small Business,Printer Laser,Technology,Printers,3,260.21,0.05,741.6,118.86,Card
+ORD-00543,2025-03-31,Eastern,Jinja,Corporate,Bookshelf,Furniture,Storage,2,175.88,0.0,351.76,57.93,Cash
+ORD-00050,2025-04-01,Central,Mukono,Corporate,Tablet 10,Technology,Phones,2,334.84,0.0,669.68,136.81,Cash
+ORD-00344,2025-04-01,Eastern,Iganga,Consumer,Notebook Pack,Office Supplies,Paper,2,18.24,0.15,31.01,5.72,Mobile Money
+ORD-00413,2025-04-01,Western,Kabale,Consumer,Printer Laser,Technology,Printers,3,255.82,0.15,652.34,81.94,Bank Transfer
+ORD-00618,2025-04-01,Central,Entebbe,Small Business,Whiteboard,Office Supplies,Boards,1,98.28,0.15,83.54,16.1,Cash
+ORD-01029,2025-04-01,Western,Kabale,Consumer,Stapler,Office Supplies,Tools,2,14.03,0.0,28.06,6.59,Card
+ORD-01152,2025-04-01,Western,Mbarara,Corporate,Smartphone X,Technology,Phones,4,740.02,0.1,2664.07,357.7,Card
+ORD-00681,2025-04-02,Western,Kabale,Corporate,Notebook Pack,Office Supplies,Paper,1,16.76,0.2,13.41,2.05,Card
+ORD-00934,2025-04-02,Central,Kampala,Small Business,Headset,Technology,Accessories,4,57.79,0.1,208.04,28.64,Card
+ORD-00251,2025-04-03,Eastern,Iganga,Corporate,Printer Laser,Technology,Printers,2,258.93,0.05,491.97,89.71,Bank Transfer
+ORD-00427,2025-04-03,Western,Fort Portal,Consumer,Desk Organizer,Office Supplies,Storage,1,21.21,0.05,20.15,5.14,Bank Transfer
+ORD-00466,2025-04-03,Western,Fort Portal,Consumer,Whiteboard,Office Supplies,Boards,1,96.77,0.05,91.93,20.65,Card
+ORD-00596,2025-04-03,Central,Mukono,Consumer,Bookshelf,Furniture,Storage,3,169.11,0.0,507.33,79.49,Card
+ORD-00679,2025-04-03,Western,Kabale,Corporate,Desk Organizer,Office Supplies,Storage,2,22.64,0.1,40.75,9.33,Mobile Money
+ORD-00884,2025-04-03,Western,Kabale,Corporate,Stapler,Office Supplies,Tools,4,15.94,0.1,57.38,11.58,Card
+ORD-00997,2025-04-03,Western,Kabale,Corporate,Wireless Mouse,Technology,Accessories,1,28.28,0.05,26.87,4.63,Card
+ORD-00037,2025-04-04,Western,Mbarara,Consumer,Filing Cabinet,Furniture,Storage,1,241.29,0.1,217.16,25.89,Card
+ORD-00076,2025-04-04,Central,Mukono,Consumer,Budget Laptop 15,Technology,Computers,3,752.54,0.05,2144.74,411.47,Mobile Money
+ORD-00484,2025-04-04,Eastern,Jinja,Consumer,Headset,Technology,Accessories,1,56.56,0.1,50.9,8.0,Bank Transfer
+ORD-00537,2025-04-04,Central,Mukono,Consumer,Desk Organizer,Office Supplies,Storage,5,22.12,0.05,105.07,21.72,Bank Transfer
+ORD-01046,2025-04-04,Eastern,Mbale,Corporate,Printer Paper,Office Supplies,Paper,5,8.64,0.05,41.04,9.79,Mobile Money
+ORD-00140,2025-04-05,Northern,Arua,Corporate,Bookshelf,Furniture,Storage,4,186.42,0.2,596.54,50.93,Mobile Money
+ORD-00384,2025-04-05,Northern,Lira,Small Business,Headset,Technology,Accessories,2,54.08,0.05,102.75,19.16,Mobile Money
+ORD-00893,2025-04-05,Northern,Gulu,Small Business,Printer Paper,Office Supplies,Paper,1,9.44,0.0,9.44,2.08,Card
+ORD-00975,2025-04-05,Central,Kampala,Corporate,Filing Cabinet,Furniture,Storage,2,231.0,0.05,438.9,55.77,Bank Transfer
+ORD-01001,2025-04-05,Eastern,Jinja,Consumer,Budget Laptop 15,Technology,Computers,3,779.64,0.05,2221.97,351.19,Mobile Money
+ORD-00099,2025-04-06,Western,Fort Portal,Consumer,Office Desk,Furniture,Tables,8,386.45,0.15,2627.86,261.79,Mobile Money
+ORD-00753,2025-04-06,Eastern,Mbale,Small Business,24-inch Monitor,Technology,Accessories,4,204.01,0.0,816.04,161.52,Bank Transfer
+ORD-00518,2025-04-07,Northern,Gulu,Corporate,Laptop Pro 14,Technology,Computers,4,1198.43,0.0,4793.72,835.93,Cash
+ORD-00115,2025-04-08,Western,Kabale,Corporate,Printer Laser,Technology,Printers,2,263.01,0.05,499.72,96.79,Card
+ORD-00574,2025-04-08,Western,Mbarara,Consumer,Ballpoint Pens,Office Supplies,Writing,3,11.89,0.1,32.1,7.45,Card
+ORD-00606,2025-04-08,Western,Fort Portal,Small Business,Bookshelf,Furniture,Storage,2,179.19,0.0,358.38,67.65,Card
+ORD-00836,2025-04-08,Central,Kampala,Consumer,Stapler,Office Supplies,Tools,2,14.57,0.0,29.14,7.49,Mobile Money
+ORD-00946,2025-04-08,Central,Mukono,Consumer,Laptop Pro 14,Technology,Computers,4,1189.39,0.0,4757.56,926.61,Card
+ORD-01149,2025-04-08,Eastern,Iganga,Corporate,Stapler,Office Supplies,Tools,1,15.08,0.0,15.08,3.27,Cash
+ORD-00028,2025-04-09,Western,Kabale,Corporate,Laptop Pro 14,Technology,Computers,2,1261.36,0.0,2522.72,570.56,Card
+ORD-00043,2025-04-09,Central,Entebbe,Consumer,Stapler,Office Supplies,Tools,4,16.03,0.0,64.12,17.75,Cash
+ORD-00932,2025-04-09,Eastern,Jinja,Corporate,Bookshelf,Furniture,Storage,2,165.39,0.05,314.24,45.33,Mobile Money
+ORD-00996,2025-04-09,Central,Mukono,Consumer,Smartphone X,Technology,Phones,2,723.08,0.15,1229.24,159.59,Mobile Money
+ORD-00262,2025-04-10,Central,Mukono,Consumer,Budget Laptop 15,Technology,Computers,1,735.4,0.05,698.63,138.52,Mobile Money
+ORD-00422,2025-04-10,Northern,Lira,Small Business,Ballpoint Pens,Office Supplies,Writing,1,11.88,0.0,11.88,3.33,Card
+ORD-00680,2025-04-10,Northern,Gulu,Corporate,Budget Laptop 15,Technology,Computers,1,764.19,0.0,764.19,136.85,Cash
+ORD-01023,2025-04-10,Western,Mbarara,Consumer,Ballpoint Pens,Office Supplies,Writing,2,11.48,0.05,21.81,5.44,Cash
+ORD-00271,2025-04-11,Eastern,Iganga,Corporate,Budget Laptop 15,Technology,Computers,4,826.17,0.05,3139.45,495.51,Mobile Money
+ORD-00570,2025-04-11,Eastern,Jinja,Corporate,Desk Organizer,Office Supplies,Storage,4,22.54,0.05,85.65,18.16,Card
+ORD-00671,2025-04-11,Central,Kampala,Corporate,Desk Organizer,Office Supplies,Storage,1,22.42,0.0,22.42,5.84,Mobile Money
+ORD-01028,2025-04-11,Northern,Gulu,Consumer,Tablet 10,Technology,Phones,1,337.85,0.0,337.85,67.33,Cash
+ORD-00001,2025-04-13,Western,Kabale,Consumer,Office Desk,Furniture,Tables,4,406.45,0.05,1544.51,200.48,Mobile Money
+ORD-00490,2025-04-13,Eastern,Jinja,Corporate,Filing Cabinet,Furniture,Storage,1,212.53,0.1,191.28,22.87,Card
+ORD-00624,2025-04-13,Western,Fort Portal,Consumer,Tablet 10,Technology,Phones,1,327.25,0.15,278.16,41.23,Card
+ORD-00648,2025-04-13,Central,Kampala,Corporate,Wireless Mouse,Technology,Accessories,1,29.24,0.1,26.32,4.29,Bank Transfer
+ORD-00667,2025-04-13,Central,Kampala,Consumer,24-inch Monitor,Technology,Accessories,1,194.96,0.1,175.46,30.07,Bank Transfer
+ORD-01080,2025-04-13,Central,Entebbe,Corporate,24-inch Monitor,Technology,Accessories,1,199.07,0.15,169.21,20.98,Mobile Money
+ORD-01093,2025-04-13,Eastern,Mbale,Small Business,Stapler,Office Supplies,Tools,2,14.1,0.1,25.38,5.76,Bank Transfer
+ORD-00023,2025-04-14,Eastern,Iganga,Corporate,Ballpoint Pens,Office Supplies,Writing,1,11.05,0.1,9.94,1.83,Cash
+ORD-00299,2025-04-14,Central,Kampala,Corporate,Budget Laptop 15,Technology,Computers,3,725.05,0.05,2066.39,385.67,Bank Transfer
+ORD-00566,2025-04-14,Eastern,Jinja,Consumer,Executive Chair,Furniture,Chairs,1,336.21,0.05,319.4,52.56,Card
+ORD-00646,2025-04-14,Central,Kampala,Small Business,Office Chair,Furniture,Chairs,1,171.7,0.0,171.7,28.91,Bank Transfer
+ORD-01116,2025-04-14,Central,Entebbe,Consumer,Ballpoint Pens,Office Supplies,Writing,1,12.55,0.0,12.55,2.82,Card
+ORD-00124,2025-04-15,Central,Mukono,Small Business,Office Chair,Furniture,Chairs,1,171.25,0.15,145.56,14.15,Cash
+ORD-00149,2025-04-15,Eastern,Jinja,Consumer,Budget Laptop 15,Technology,Computers,2,830.01,0.15,1411.02,182.57,Card
+ORD-00499,2025-04-15,Western,Kabale,Consumer,Notebook Pack,Office Supplies,Paper,1,16.56,0.0,16.56,4.64,Mobile Money
+ORD-00770,2025-04-15,Central,Entebbe,Consumer,Office Chair,Furniture,Chairs,2,197.34,0.15,335.48,39.51,Bank Transfer
+ORD-00869,2025-04-15,Central,Kampala,Corporate,Stapler,Office Supplies,Tools,6,16.18,0.2,77.66,13.51,Mobile Money
+ORD-00924,2025-04-15,Eastern,Mbale,Corporate,Filing Cabinet,Furniture,Storage,3,243.2,0.05,693.12,90.5,Card
+ORD-00942,2025-04-15,Central,Kampala,Corporate,Laptop Pro 14,Technology,Computers,3,1228.9,0.15,3133.7,475.15,Card
+ORD-00034,2025-04-16,Central,Kampala,Small Business,Whiteboard,Office Supplies,Boards,2,87.79,0.0,175.58,49.99,Cash
+ORD-00390,2025-04-16,Central,Entebbe,Corporate,Office Chair,Furniture,Chairs,1,186.4,0.0,186.4,36.36,Mobile Money
+ORD-00519,2025-04-16,Central,Entebbe,Consumer,Ballpoint Pens,Office Supplies,Writing,1,11.57,0.1,10.41,2.21,Card
+ORD-01052,2025-04-17,Western,Fort Portal,Consumer,Stapler,Office Supplies,Tools,4,14.2,0.0,56.8,16.0,Mobile Money
+ORD-00033,2025-04-18,Northern,Lira,Consumer,Bookshelf,Furniture,Storage,1,180.59,0.05,171.56,22.56,Bank Transfer
+ORD-00207,2025-04-18,Northern,Gulu,Small Business,Printer Paper,Office Supplies,Paper,1,9.45,0.05,8.98,2.19,Mobile Money
+ORD-00305,2025-04-18,Western,Kabale,Corporate,Bookshelf,Furniture,Storage,3,179.46,0.05,511.46,66.59,Card
+ORD-00562,2025-04-18,Western,Mbarara,Corporate,24-inch Monitor,Technology,Accessories,3,216.15,0.0,648.45,146.52,Mobile Money
+ORD-00813,2025-04-18,Central,Mukono,Consumer,Executive Chair,Furniture,Chairs,3,317.96,0.0,953.88,147.25,Mobile Money
+ORD-01131,2025-04-18,Northern,Lira,Corporate,Notebook Pack,Office Supplies,Paper,2,19.03,0.0,38.06,8.45,Mobile Money
+ORD-01194,2025-04-18,Northern,Gulu,Consumer,24-inch Monitor,Technology,Accessories,1,207.77,0.0,207.77,45.38,Mobile Money
+ORD-00780,2025-04-19,Central,Entebbe,Consumer,Whiteboard,Office Supplies,Boards,2,88.47,0.05,168.09,35.7,Bank Transfer
+ORD-01144,2025-04-19,Western,Fort Portal,Corporate,Executive Chair,Furniture,Chairs,2,313.36,0.0,626.72,91.21,Card
+ORD-00369,2025-04-20,Central,Mukono,Consumer,Executive Chair,Furniture,Chairs,3,334.23,0.1,902.42,121.63,Mobile Money
+ORD-00108,2025-04-21,Western,Fort Portal,Small Business,24-inch Monitor,Technology,Accessories,2,211.34,0.0,422.68,75.96,Bank Transfer
+ORD-00295,2025-04-21,Central,Entebbe,Corporate,Headset,Technology,Accessories,1,59.08,0.05,56.13,10.02,Mobile Money
+ORD-00610,2025-04-21,Northern,Gulu,Corporate,Wireless Mouse,Technology,Accessories,3,29.2,0.0,87.6,18.84,Mobile Money
+ORD-01166,2025-04-21,Western,Kabale,Corporate,Executive Chair,Furniture,Chairs,2,337.03,0.1,606.65,80.72,Card
+ORD-00226,2025-04-22,Central,Entebbe,Corporate,Budget Laptop 15,Technology,Computers,5,811.11,0.05,3852.77,640.9,Mobile Money
+ORD-00847,2025-04-22,Northern,Lira,Consumer,Whiteboard,Office Supplies,Boards,2,90.0,0.05,171.0,41.72,Card
+ORD-01167,2025-04-22,Eastern,Jinja,Small Business,Tablet 10,Technology,Phones,1,351.13,0.0,351.13,61.78,Mobile Money
+ORD-00017,2025-04-23,Western,Kabale,Corporate,Stapler,Office Supplies,Tools,8,13.88,0.05,105.49,22.88,Cash
+ORD-00520,2025-04-23,Eastern,Iganga,Corporate,Executive Chair,Furniture,Chairs,5,328.79,0.1,1479.56,158.96,Mobile Money
+ORD-00812,2025-04-23,Central,Entebbe,Corporate,Printer Laser,Technology,Printers,2,266.37,0.0,532.74,95.31,Card
+ORD-01086,2025-04-23,Eastern,Jinja,Consumer,Wireless Mouse,Technology,Accessories,3,28.84,0.1,77.87,13.07,Card
+ORD-00042,2025-04-24,Northern,Gulu,Corporate,Mechanical Keyboard,Technology,Accessories,2,72.55,0.2,116.08,12.48,Card
+ORD-00329,2025-04-24,Western,Kabale,Consumer,Whiteboard,Office Supplies,Boards,1,88.19,0.1,79.37,16.51,Mobile Money
+ORD-00485,2025-04-24,Northern,Arua,Corporate,Office Desk,Furniture,Tables,5,422.29,0.0,2111.45,408.66,Card
+ORD-00633,2025-04-24,Eastern,Mbale,Small Business,Bookshelf,Furniture,Storage,3,165.97,0.15,423.22,36.96,Mobile Money
+ORD-00861,2025-04-24,Western,Kabale,Corporate,Tablet 10,Technology,Phones,6,341.93,0.15,1743.84,234.08,Card
+ORD-00103,2025-04-25,Eastern,Jinja,Consumer,Printer Laser,Technology,Printers,3,248.27,0.05,707.57,131.06,Mobile Money
+ORD-00354,2025-04-25,Central,Kampala,Consumer,Executive Chair,Furniture,Chairs,3,297.36,0.0,892.08,146.7,Mobile Money
+ORD-00887,2025-04-25,Eastern,Mbale,Consumer,Desk Organizer,Office Supplies,Storage,2,23.67,0.0,47.34,12.42,Mobile Money
+ORD-01013,2025-04-25,Northern,Lira,Consumer,Whiteboard,Office Supplies,Boards,10,91.27,0.0,912.7,246.81,Mobile Money
+ORD-01053,2025-04-25,Central,Kampala,Consumer,24-inch Monitor,Technology,Accessories,2,213.2,0.0,426.4,94.8,Card
+ORD-01195,2025-04-25,Central,Entebbe,Corporate,Executive Chair,Furniture,Chairs,2,308.48,0.05,586.11,92.07,Mobile Money
+ORD-00432,2025-04-26,Central,Entebbe,Consumer,Wireless Mouse,Technology,Accessories,1,30.01,0.15,25.51,3.18,Mobile Money
+ORD-00464,2025-04-26,Northern,Arua,Corporate,Stapler,Office Supplies,Tools,3,14.69,0.0,44.07,11.18,Mobile Money
+ORD-00711,2025-04-26,Central,Kampala,Consumer,Tablet 10,Technology,Phones,1,323.74,0.1,291.37,39.47,Mobile Money
+ORD-01042,2025-04-26,Central,Mukono,Small Business,Tablet 10,Technology,Phones,5,332.57,0.0,1662.85,329.03,Mobile Money
+ORD-01022,2025-04-27,Eastern,Mbale,Consumer,Notebook Pack,Office Supplies,Paper,2,19.11,0.1,34.4,6.99,Mobile Money
+ORD-00061,2025-04-28,Western,Fort Portal,Corporate,Filing Cabinet,Furniture,Storage,4,214.85,0.2,687.52,59.82,Card
+ORD-00215,2025-04-28,Northern,Gulu,Small Business,Smartphone X,Technology,Phones,3,647.86,0.1,1749.22,263.8,Card
+ORD-00258,2025-04-28,Central,Mukono,Corporate,Wireless Mouse,Technology,Accessories,4,29.8,0.0,119.2,20.74,Mobile Money
+ORD-00351,2025-04-28,Western,Kabale,Consumer,Stapler,Office Supplies,Tools,2,14.79,0.05,28.1,5.46,Card
+ORD-00473,2025-04-28,Eastern,Iganga,Consumer,Office Chair,Furniture,Chairs,5,176.91,0.0,884.55,153.39,Card
+ORD-00542,2025-04-28,Northern,Lira,Corporate,Printer Laser,Technology,Printers,4,265.61,0.0,1062.44,192.5,Card
+ORD-00071,2025-04-29,Central,Entebbe,Small Business,Tablet 10,Technology,Phones,2,330.62,0.0,661.24,117.16,Card
+ORD-00300,2025-04-29,Northern,Lira,Consumer,Office Desk,Furniture,Tables,8,401.19,0.0,3209.52,500.67,Mobile Money
+ORD-00282,2025-04-30,Central,Mukono,Corporate,Tablet 10,Technology,Phones,2,347.64,0.0,695.28,159.04,Mobile Money
+ORD-00359,2025-04-30,Northern,Gulu,Corporate,Ballpoint Pens,Office Supplies,Writing,1,11.59,0.0,11.59,2.92,Bank Transfer
+ORD-00371,2025-04-30,Western,Fort Portal,Small Business,Notebook Pack,Office Supplies,Paper,5,19.15,0.0,95.75,27.5,Bank Transfer
+ORD-00536,2025-04-30,Eastern,Jinja,Consumer,Budget Laptop 15,Technology,Computers,2,818.98,0.0,1637.96,312.15,Card
+ORD-00937,2025-04-30,Western,Kabale,Small Business,Tablet 10,Technology,Phones,1,329.91,0.05,313.41,50.66,Card
+ORD-01014,2025-04-30,Western,Kabale,Corporate,Office Desk,Furniture,Tables,3,398.07,0.2,955.37,70.0,Cash
+ORD-01070,2025-04-30,Western,Kabale,Consumer,Desk Organizer,Office Supplies,Storage,3,21.64,0.2,51.94,8.6,Card
+ORD-01120,2025-04-30,Western,Kabale,Consumer,Tablet 10,Technology,Phones,3,338.67,0.0,1016.01,192.12,Bank Transfer
+ORD-00015,2025-05-01,Western,Mbarara,Consumer,Wireless Mouse,Technology,Accessories,1,27.63,0.05,26.25,4.27,Mobile Money
+ORD-00068,2025-05-01,Northern,Lira,Corporate,Office Desk,Furniture,Tables,6,395.36,0.0,2372.16,440.31,Mobile Money
+ORD-00172,2025-05-01,Western,Mbarara,Small Business,24-inch Monitor,Technology,Accessories,2,221.8,0.1,399.24,65.06,Cash
+ORD-00047,2025-05-02,Eastern,Iganga,Small Business,Office Desk,Furniture,Tables,4,422.33,0.2,1351.46,119.05,Bank Transfer
+ORD-00905,2025-05-02,Central,Mukono,Consumer,Executive Chair,Furniture,Chairs,5,302.77,0.1,1362.46,146.48,Card
+ORD-01084,2025-05-02,Western,Fort Portal,Consumer,Wireless Mouse,Technology,Accessories,5,26.51,0.0,132.55,22.78,Bank Transfer
+ORD-00362,2025-05-03,Central,Mukono,Consumer,Whiteboard,Office Supplies,Boards,1,96.65,0.1,86.99,18.94,Mobile Money
+ORD-00889,2025-05-03,Western,Mbarara,Consumer,Mechanical Keyboard,Technology,Accessories,1,73.25,0.1,65.92,11.66,Cash
+ORD-00738,2025-05-05,Northern,Lira,Corporate,Office Chair,Furniture,Chairs,1,182.27,0.2,145.82,10.92,Mobile Money
+ORD-00886,2025-05-05,Northern,Arua,Small Business,Laptop Pro 14,Technology,Computers,1,1302.6,0.1,1172.34,175.51,Bank Transfer
+ORD-00931,2025-05-05,Western,Kabale,Consumer,Desk Organizer,Office Supplies,Storage,2,20.41,0.15,34.7,5.66,Card
+ORD-01012,2025-05-05,Eastern,Jinja,Consumer,Notebook Pack,Office Supplies,Paper,2,18.38,0.0,36.76,8.5,Cash
+ORD-00635,2025-05-06,Eastern,Mbale,Consumer,Filing Cabinet,Furniture,Storage,4,221.19,0.0,884.76,132.02,Card
+ORD-00882,2025-05-06,Central,Kampala,Consumer,24-inch Monitor,Technology,Accessories,1,201.2,0.0,201.2,44.11,Mobile Money
+ORD-01100,2025-05-06,Northern,Lira,Consumer,Whiteboard,Office Supplies,Boards,2,87.97,0.0,175.94,45.08,Mobile Money
+ORD-00254,2025-05-07,Central,Kampala,Corporate,Printer Laser,Technology,Printers,2,276.96,0.05,526.22,99.4,Mobile Money
+ORD-00340,2025-05-07,Western,Kabale,Consumer,Printer Paper,Office Supplies,Paper,4,8.91,0.05,33.86,8.85,Card
+ORD-00653,2025-05-07,Northern,Lira,Small Business,Headset,Technology,Accessories,1,52.51,0.1,47.26,7.42,Mobile Money
+ORD-00865,2025-05-07,Central,Mukono,Consumer,Ballpoint Pens,Office Supplies,Writing,4,11.99,0.05,45.56,11.55,Card
+ORD-01174,2025-05-07,Western,Kabale,Small Business,Office Chair,Furniture,Chairs,1,174.5,0.05,165.78,26.64,Card
+ORD-00239,2025-05-08,Northern,Lira,Corporate,Printer Paper,Office Supplies,Paper,2,8.33,0.0,16.66,3.92,Bank Transfer
+ORD-00357,2025-05-08,Western,Mbarara,Small Business,Tablet 10,Technology,Phones,1,349.73,0.1,314.76,52.78,Cash
+ORD-00382,2025-05-08,Eastern,Iganga,Corporate,Ballpoint Pens,Office Supplies,Writing,3,12.0,0.05,34.2,8.89,Mobile Money
+ORD-00389,2025-05-08,Central,Mukono,Consumer,Filing Cabinet,Furniture,Storage,2,214.63,0.05,407.8,59.42,Bank Transfer
+ORD-00579,2025-05-08,Central,Kampala,Corporate,Stapler,Office Supplies,Tools,2,13.89,0.0,27.78,5.95,Mobile Money
+ORD-01078,2025-05-08,Northern,Gulu,Small Business,Desk Organizer,Office Supplies,Storage,1,22.1,0.15,18.78,3.67,Bank Transfer
+ORD-00035,2025-05-09,Central,Kampala,Consumer,Printer Paper,Office Supplies,Paper,1,9.31,0.05,8.84,2.11,Bank Transfer
+ORD-00529,2025-05-09,Central,Kampala,Consumer,Smartphone X,Technology,Phones,4,655.33,0.0,2621.32,595.17,Mobile Money
+ORD-00734,2025-05-09,Western,Mbarara,Corporate,Whiteboard,Office Supplies,Boards,3,88.9,0.15,226.7,38.05,Bank Transfer
+ORD-00814,2025-05-11,Eastern,Iganga,Corporate,Laptop Pro 14,Technology,Computers,1,1305.07,0.15,1109.31,144.81,Bank Transfer
+ORD-00249,2025-05-12,Northern,Lira,Corporate,Filing Cabinet,Furniture,Storage,2,246.58,0.1,443.84,57.16,Card
+ORD-00516,2025-05-12,Eastern,Mbale,Consumer,Smartphone X,Technology,Phones,2,663.46,0.15,1127.88,127.1,Card
+ORD-00625,2025-05-12,Eastern,Jinja,Small Business,Mechanical Keyboard,Technology,Accessories,1,71.64,0.05,68.06,10.53,Mobile Money
+ORD-00737,2025-05-12,Northern,Gulu,Consumer,Bookshelf,Furniture,Storage,1,187.28,0.0,187.28,28.7,Card
+ORD-00821,2025-05-12,Western,Mbarara,Small Business,24-inch Monitor,Technology,Accessories,4,216.1,0.0,864.4,160.1,Card
+ORD-01191,2025-05-12,Central,Entebbe,Consumer,Wireless Mouse,Technology,Accessories,2,28.06,0.05,53.31,10.01,Mobile Money
+ORD-00064,2025-05-13,Western,Fort Portal,Consumer,Stapler,Office Supplies,Tools,2,14.9,0.0,29.8,8.52,Mobile Money
+ORD-00154,2025-05-13,Central,Mukono,Corporate,Filing Cabinet,Furniture,Storage,4,217.77,0.0,871.08,127.5,Card
+ORD-00166,2025-05-13,Central,Kampala,Corporate,Printer Paper,Office Supplies,Paper,3,9.38,0.05,26.73,6.65,Bank Transfer
+ORD-00315,2025-05-13,Central,Mukono,Consumer,Executive Chair,Furniture,Chairs,5,304.87,0.05,1448.13,197.92,Card
+ORD-00348,2025-05-13,Northern,Gulu,Consumer,Desk Organizer,Office Supplies,Storage,5,22.65,0.1,101.92,18.45,Mobile Money
+ORD-00890,2025-05-13,Central,Kampala,Consumer,Office Chair,Furniture,Chairs,3,196.11,0.05,558.91,80.35,Mobile Money
+ORD-00963,2025-05-13,Eastern,Mbale,Corporate,Ballpoint Pens,Office Supplies,Writing,1,12.66,0.05,12.03,2.61,Cash
+ORD-01124,2025-05-13,Eastern,Mbale,Small Business,Headset,Technology,Accessories,1,57.64,0.05,54.76,9.97,Card
+ORD-00297,2025-05-14,Eastern,Jinja,Corporate,Laptop Pro 14,Technology,Computers,4,1278.37,0.0,5113.48,1044.37,Card
+ORD-00491,2025-05-14,Central,Kampala,Consumer,Bookshelf,Furniture,Storage,2,175.37,0.0,350.74,53.02,Mobile Money
+ORD-01011,2025-05-14,Northern,Arua,Consumer,Filing Cabinet,Furniture,Storage,2,237.31,0.1,427.16,56.66,Bank Transfer
+ORD-01090,2025-05-14,Western,Fort Portal,Corporate,Bookshelf,Furniture,Storage,3,169.5,0.0,508.5,82.21,Bank Transfer
+ORD-01126,2025-05-14,Western,Kabale,Consumer,Filing Cabinet,Furniture,Storage,2,240.4,0.1,432.72,54.81,Mobile Money
+ORD-00298,2025-05-15,Western,Kabale,Consumer,Office Chair,Furniture,Chairs,3,188.14,0.1,507.98,59.52,Mobile Money
+ORD-00548,2025-05-15,Western,Kabale,Corporate,Printer Paper,Office Supplies,Paper,2,9.3,0.0,18.6,4.7,Mobile Money
+ORD-00982,2025-05-15,Central,Kampala,Consumer,Office Desk,Furniture,Tables,4,407.09,0.1,1465.52,189.34,Cash
+ORD-00180,2025-05-16,Western,Fort Portal,Corporate,Bookshelf,Furniture,Storage,1,161.56,0.2,129.25,11.08,Mobile Money
+ORD-00216,2025-05-17,Western,Mbarara,Small Business,Headset,Technology,Accessories,2,50.83,0.0,101.66,17.43,Mobile Money
+ORD-00292,2025-05-17,Northern,Arua,Small Business,Laptop Pro 14,Technology,Computers,4,1157.19,0.1,4165.88,625.32,Mobile Money
+ORD-00408,2025-05-17,Central,Mukono,Consumer,Notebook Pack,Office Supplies,Paper,2,17.11,0.15,29.09,4.52,Bank Transfer
+ORD-00483,2025-05-17,Central,Kampala,Corporate,Mechanical Keyboard,Technology,Accessories,1,77.26,0.0,77.26,15.91,Mobile Money
+ORD-01063,2025-05-17,Northern,Lira,Corporate,Bookshelf,Furniture,Storage,2,181.55,0.0,363.1,53.83,Cash
+ORD-00343,2025-05-18,Western,Kabale,Corporate,Whiteboard,Office Supplies,Boards,2,99.36,0.0,198.72,48.15,Mobile Money
+ORD-00777,2025-05-18,Eastern,Mbale,Small Business,Desk Organizer,Office Supplies,Storage,3,23.65,0.0,70.95,16.79,Bank Transfer
+ORD-00322,2025-05-19,Northern,Lira,Consumer,Stapler,Office Supplies,Tools,3,15.51,0.0,46.53,12.54,Card
+ORD-00795,2025-05-19,Central,Kampala,Consumer,Smartphone X,Technology,Phones,1,643.55,0.1,579.19,81.47,Card
+ORD-01175,2025-05-19,Central,Kampala,Consumer,24-inch Monitor,Technology,Accessories,2,194.69,0.05,369.91,70.63,Card
+ORD-00402,2025-05-20,Northern,Lira,Consumer,Printer Laser,Technology,Printers,2,255.0,0.0,510.0,111.22,Cash
+ORD-00593,2025-05-20,Western,Fort Portal,Corporate,Executive Chair,Furniture,Chairs,2,315.45,0.2,504.72,39.71,Bank Transfer
+ORD-00500,2025-05-21,Northern,Lira,Small Business,Office Chair,Furniture,Chairs,4,182.36,0.0,729.44,113.2,Card
+ORD-00726,2025-05-21,Eastern,Mbale,Corporate,Office Chair,Furniture,Chairs,6,172.73,0.05,984.56,143.04,Cash
+ORD-00824,2025-05-21,Eastern,Iganga,Consumer,Whiteboard,Office Supplies,Boards,5,94.33,0.0,471.65,117.64,Mobile Money
+ORD-00992,2025-05-21,Western,Kabale,Corporate,Office Chair,Furniture,Chairs,5,185.43,0.0,927.15,139.03,Bank Transfer
+ORD-01101,2025-05-21,Central,Kampala,Corporate,Headset,Technology,Accessories,2,58.84,0.15,100.03,14.48,Mobile Money
+ORD-00161,2025-05-22,Central,Kampala,Small Business,Office Chair,Furniture,Chairs,1,199.78,0.1,179.8,19.43,Card
+ORD-00817,2025-05-22,Western,Mbarara,Consumer,Bookshelf,Furniture,Storage,5,184.32,0.15,783.36,85.07,Mobile Money
+ORD-01021,2025-05-22,Western,Kabale,Consumer,Printer Paper,Office Supplies,Paper,2,9.04,0.15,15.37,2.5,Cash
+ORD-01145,2025-05-22,Central,Mukono,Corporate,Printer Laser,Technology,Printers,1,256.84,0.0,256.84,49.22,Card
+ORD-00143,2025-05-23,Central,Mukono,Small Business,Filing Cabinet,Furniture,Storage,1,237.6,0.1,213.84,22.97,Mobile Money
+ORD-00632,2025-05-23,Central,Entebbe,Consumer,Printer Paper,Office Supplies,Paper,2,8.49,0.05,16.13,4.03,Card
+ORD-00650,2025-05-23,Central,Entebbe,Consumer,Office Chair,Furniture,Chairs,1,198.78,0.15,168.96,16.5,Mobile Money
+ORD-00697,2025-05-23,Central,Mukono,Small Business,Laptop Pro 14,Technology,Computers,5,1217.67,0.1,5479.52,960.3,Mobile Money
+ORD-00281,2025-05-24,Eastern,Mbale,Consumer,Budget Laptop 15,Technology,Computers,4,743.95,0.1,2678.22,460.38,Mobile Money
+ORD-00644,2025-05-24,Northern,Gulu,Consumer,Ballpoint Pens,Office Supplies,Writing,2,12.8,0.05,24.32,6.03,Cash
+ORD-00160,2025-05-25,Western,Kabale,Corporate,Printer Laser,Technology,Printers,4,272.29,0.0,1089.16,245.19,Bank Transfer
+ORD-00555,2025-05-25,Northern,Lira,Consumer,Whiteboard,Office Supplies,Boards,1,95.27,0.2,76.22,12.61,Card
+ORD-01153,2025-05-25,Central,Entebbe,Consumer,24-inch Monitor,Technology,Accessories,4,195.43,0.1,703.55,98.28,Mobile Money
+ORD-00119,2025-05-26,Central,Kampala,Corporate,Ballpoint Pens,Office Supplies,Writing,1,11.86,0.2,9.49,1.47,Mobile Money
+ORD-00291,2025-05-26,Northern,Arua,Consumer,Filing Cabinet,Furniture,Storage,1,218.45,0.15,185.68,19.33,Cash
+ORD-00675,2025-05-26,Central,Mukono,Corporate,Stapler,Office Supplies,Tools,1,15.03,0.15,12.78,2.35,Mobile Money
+ORD-01048,2025-05-26,Central,Entebbe,Consumer,Executive Chair,Furniture,Chairs,1,315.16,0.2,252.13,19.19,Mobile Money
+ORD-00127,2025-05-27,Western,Mbarara,Corporate,Ballpoint Pens,Office Supplies,Writing,4,12.38,0.15,42.09,8.1,Cash
+ORD-00136,2025-05-27,Central,Mukono,Small Business,Laptop Pro 14,Technology,Computers,2,1299.17,0.1,2338.51,329.89,Cash
+ORD-00870,2025-05-27,Central,Mukono,Small Business,Printer Paper,Office Supplies,Paper,1,9.04,0.15,7.68,1.47,Mobile Money
+ORD-01106,2025-05-27,Central,Mukono,Small Business,Notebook Pack,Office Supplies,Paper,1,18.71,0.1,16.84,3.88,Mobile Money
+ORD-00020,2025-05-28,Northern,Gulu,Corporate,Laptop Pro 14,Technology,Computers,2,1317.54,0.05,2503.33,467.76,Mobile Money
+ORD-01079,2025-05-29,Central,Mukono,Corporate,Bookshelf,Furniture,Storage,1,171.26,0.05,162.7,24.43,Bank Transfer
+ORD-00074,2025-05-30,Central,Entebbe,Small Business,Ballpoint Pens,Office Supplies,Writing,1,11.59,0.0,11.59,2.61,Mobile Money
+ORD-00501,2025-05-31,Central,Entebbe,Consumer,Whiteboard,Office Supplies,Boards,5,89.71,0.0,448.55,106.37,Mobile Money
+ORD-00355,2025-06-01,Eastern,Jinja,Corporate,Office Chair,Furniture,Chairs,2,186.21,0.05,353.8,55.26,Mobile Money
+ORD-00776,2025-06-01,Eastern,Iganga,Consumer,Printer Paper,Office Supplies,Paper,1,8.97,0.2,7.18,1.24,Mobile Money
+ORD-00995,2025-06-01,Western,Mbarara,Corporate,Headset,Technology,Accessories,2,58.84,0.0,117.68,22.68,Cash
+ORD-00105,2025-06-02,Eastern,Iganga,Consumer,Executive Chair,Furniture,Chairs,1,308.04,0.0,308.04,56.01,Card
+ORD-00376,2025-06-02,Central,Mukono,Small Business,Office Desk,Furniture,Tables,6,411.82,0.0,2470.92,383.72,Bank Transfer
+ORD-00502,2025-06-02,Northern,Arua,Consumer,Executive Chair,Furniture,Chairs,4,301.94,0.0,1207.76,187.25,Card
+ORD-00183,2025-06-03,Eastern,Iganga,Consumer,Smartphone X,Technology,Phones,6,744.33,0.05,4242.68,832.47,Bank Transfer
+ORD-00463,2025-06-03,Northern,Arua,Corporate,Whiteboard,Office Supplies,Boards,6,92.2,0.0,553.2,119.92,Cash
+ORD-00541,2025-06-03,Central,Kampala,Consumer,Tablet 10,Technology,Phones,2,315.03,0.05,598.56,114.05,Mobile Money
+ORD-00608,2025-06-03,Eastern,Iganga,Consumer,Office Chair,Furniture,Chairs,6,175.25,0.15,893.78,89.87,Cash
+ORD-00751,2025-06-03,Central,Kampala,Consumer,Whiteboard,Office Supplies,Boards,4,90.45,0.0,361.8,96.29,Mobile Money
+ORD-00310,2025-06-04,Central,Mukono,Small Business,Filing Cabinet,Furniture,Storage,3,222.23,0.0,666.69,109.86,Bank Transfer
+ORD-00287,2025-06-05,Central,Kampala,Small Business,Office Desk,Furniture,Tables,2,397.76,0.15,676.19,75.32,Card
+ORD-00296,2025-06-05,Central,Kampala,Consumer,Printer Laser,Technology,Printers,1,263.13,0.15,223.66,25.87,Mobile Money
+ORD-00399,2025-06-05,Northern,Arua,Consumer,Budget Laptop 15,Technology,Computers,4,805.47,0.05,3060.79,614.22,Cash
+ORD-00450,2025-06-05,Central,Mukono,Small Business,Executive Chair,Furniture,Chairs,3,300.93,0.15,767.37,85.74,Mobile Money
+ORD-00722,2025-06-05,Northern,Arua,Corporate,Stapler,Office Supplies,Tools,2,16.07,0.05,30.53,6.35,Card
+ORD-00159,2025-06-06,Eastern,Jinja,Corporate,Printer Paper,Office Supplies,Paper,1,9.49,0.1,8.54,1.98,Card
+ORD-00263,2025-06-06,Eastern,Mbale,Corporate,Wireless Mouse,Technology,Accessories,2,27.6,0.0,55.2,10.41,Card
+ORD-01142,2025-06-06,Western,Fort Portal,Corporate,Tablet 10,Technology,Phones,2,357.56,0.0,715.12,161.52,Mobile Money
+ORD-01181,2025-06-06,Northern,Gulu,Consumer,24-inch Monitor,Technology,Accessories,4,199.79,0.1,719.24,117.22,Mobile Money
+ORD-00169,2025-06-07,Northern,Gulu,Consumer,Bookshelf,Furniture,Storage,2,166.07,0.0,332.14,59.53,Card
+ORD-00411,2025-06-07,Western,Mbarara,Consumer,Headset,Technology,Accessories,5,57.07,0.0,285.35,57.61,Card
+ORD-00533,2025-06-07,Western,Fort Portal,Small Business,Stapler,Office Supplies,Tools,2,15.38,0.2,24.61,4.01,Card
+ORD-00442,2025-06-08,Northern,Gulu,Corporate,Whiteboard,Office Supplies,Boards,10,94.0,0.1,846.0,170.64,Card
+ORD-00713,2025-06-08,Western,Fort Portal,Corporate,Bookshelf,Furniture,Storage,4,176.04,0.0,704.16,128.23,Card
+ORD-00818,2025-06-08,Western,Mbarara,Small Business,Ballpoint Pens,Office Supplies,Writing,2,12.32,0.05,23.41,4.55,Card
+ORD-00174,2025-06-09,Northern,Gulu,Corporate,Notebook Pack,Office Supplies,Paper,3,16.97,0.0,50.91,11.87,Card
+ORD-00188,2025-06-09,Central,Entebbe,Consumer,Budget Laptop 15,Technology,Computers,3,725.26,0.0,2175.78,471.81,Mobile Money
+ORD-00311,2025-06-09,Eastern,Iganga,Consumer,Stapler,Office Supplies,Tools,3,13.88,0.0,41.64,9.03,Mobile Money
+ORD-00448,2025-06-09,Eastern,Mbale,Consumer,Filing Cabinet,Furniture,Storage,2,212.1,0.05,402.99,51.98,Mobile Money
+ORD-00691,2025-06-10,Eastern,Mbale,Consumer,Ballpoint Pens,Office Supplies,Writing,2,11.41,0.0,22.82,5.81,Mobile Money
+ORD-00973,2025-06-10,Central,Mukono,Corporate,Filing Cabinet,Furniture,Storage,2,240.32,0.15,408.54,45.08,Card
+ORD-00947,2025-06-11,Eastern,Iganga,Small Business,Ballpoint Pens,Office Supplies,Writing,8,12.91,0.05,98.12,19.03,Bank Transfer
+ORD-00185,2025-06-12,Central,Entebbe,Consumer,Wireless Mouse,Technology,Accessories,2,28.63,0.2,45.81,5.53,Bank Transfer
+ORD-00220,2025-06-12,Central,Entebbe,Consumer,Executive Chair,Furniture,Chairs,2,317.43,0.1,571.37,77.35,Card
+ORD-00703,2025-06-12,Central,Entebbe,Corporate,24-inch Monitor,Technology,Accessories,6,202.21,0.1,1091.93,173.86,Bank Transfer
+ORD-00874,2025-06-12,Central,Kampala,Small Business,Office Chair,Furniture,Chairs,3,188.21,0.15,479.94,50.08,Card
+ORD-00153,2025-06-13,Western,Kabale,Corporate,Office Desk,Furniture,Tables,5,398.91,0.05,1894.82,275.19,Mobile Money
+ORD-00186,2025-06-13,Eastern,Jinja,Small Business,Notebook Pack,Office Supplies,Paper,5,17.47,0.1,78.61,18.3,Card
+ORD-00317,2025-06-13,Northern,Lira,Consumer,Mechanical Keyboard,Technology,Accessories,1,72.45,0.15,61.58,7.63,Mobile Money
+ORD-00423,2025-06-13,Central,Entebbe,Consumer,Notebook Pack,Office Supplies,Paper,2,17.39,0.0,34.78,8.84,Bank Transfer
+ORD-00929,2025-06-13,Western,Mbarara,Consumer,Printer Laser,Technology,Printers,6,251.16,0.15,1280.92,161.22,Mobile Money
+ORD-01132,2025-06-13,Western,Fort Portal,Corporate,Ballpoint Pens,Office Supplies,Writing,2,12.04,0.15,20.47,3.72,Cash
+ORD-00155,2025-06-14,Northern,Arua,Consumer,Printer Paper,Office Supplies,Paper,3,8.33,0.05,23.74,6.19,Mobile Money
+ORD-00438,2025-06-14,Northern,Gulu,Consumer,Headset,Technology,Accessories,4,54.19,0.0,216.76,38.48,Bank Transfer
+ORD-00510,2025-06-14,Eastern,Iganga,Consumer,Stapler,Office Supplies,Tools,2,15.79,0.1,28.42,6.19,Bank Transfer
+ORD-00736,2025-06-14,Central,Entebbe,Consumer,Printer Laser,Technology,Printers,1,272.78,0.2,218.22,23.71,Bank Transfer
+ORD-00388,2025-06-15,Western,Kabale,Consumer,Budget Laptop 15,Technology,Computers,5,794.63,0.1,3575.84,497.05,Cash
+ORD-00651,2025-06-15,Western,Fort Portal,Corporate,Wireless Mouse,Technology,Accessories,3,25.9,0.1,69.93,9.61,Bank Transfer
+ORD-00857,2025-06-15,Eastern,Iganga,Consumer,Laptop Pro 14,Technology,Computers,1,1317.71,0.15,1120.05,147.12,Mobile Money
+ORD-00976,2025-06-15,Northern,Lira,Consumer,Notebook Pack,Office Supplies,Paper,1,19.38,0.0,19.38,4.69,Mobile Money
+ORD-01085,2025-06-15,Northern,Lira,Consumer,Budget Laptop 15,Technology,Computers,1,763.42,0.15,648.91,96.5,Card
+ORD-00176,2025-06-16,Northern,Gulu,Corporate,Laptop Pro 14,Technology,Computers,3,1223.39,0.05,3486.66,589.84,Card
+ORD-00324,2025-06-16,Western,Mbarara,Corporate,Stapler,Office Supplies,Tools,1,14.14,0.0,14.14,3.23,Mobile Money
+ORD-00554,2025-06-16,Western,Kabale,Consumer,Tablet 10,Technology,Phones,2,358.3,0.1,644.94,110.84,Bank Transfer
+ORD-00888,2025-06-16,Central,Mukono,Small Business,Ballpoint Pens,Office Supplies,Writing,3,12.94,0.1,34.94,7.55,Mobile Money
+ORD-01027,2025-06-16,Central,Entebbe,Corporate,Tablet 10,Technology,Phones,5,327.27,0.15,1390.9,182.2,Bank Transfer
+ORD-00327,2025-06-17,Central,Kampala,Corporate,24-inch Monitor,Technology,Accessories,4,199.22,0.15,677.35,97.83,Card
+ORD-01133,2025-06-17,Eastern,Jinja,Corporate,Wireless Mouse,Technology,Accessories,3,29.21,0.1,78.87,10.97,Card
+ORD-00661,2025-06-18,Northern,Lira,Consumer,Stapler,Office Supplies,Tools,2,13.91,0.05,26.43,5.63,Mobile Money
+ORD-01185,2025-06-18,Western,Mbarara,Consumer,Smartphone X,Technology,Phones,3,648.23,0.0,1944.69,373.0,Card
+ORD-00807,2025-06-19,Central,Kampala,Corporate,Tablet 10,Technology,Phones,1,326.45,0.0,326.45,68.88,Card
+ORD-00403,2025-06-20,Northern,Gulu,Small Business,Printer Laser,Technology,Printers,6,241.95,0.05,1379.11,209.48,Card
+ORD-01041,2025-06-20,Eastern,Iganga,Corporate,Desk Organizer,Office Supplies,Storage,3,20.91,0.05,59.59,13.43,Card
+ORD-00474,2025-06-21,Central,Mukono,Consumer,Tablet 10,Technology,Phones,6,324.57,0.05,1850.05,322.73,Bank Transfer
+ORD-00957,2025-06-21,Central,Entebbe,Consumer,Stapler,Office Supplies,Tools,1,15.85,0.2,12.68,1.86,Mobile Money
+ORD-00983,2025-06-21,Northern,Gulu,Corporate,Stapler,Office Supplies,Tools,2,15.43,0.1,27.77,5.79,Mobile Money
+ORD-01137,2025-06-21,Western,Mbarara,Corporate,Tablet 10,Technology,Phones,3,342.47,0.1,924.67,124.03,Card
+ORD-00060,2025-06-22,Eastern,Mbale,Corporate,Laptop Pro 14,Technology,Computers,3,1221.63,0.05,3481.65,546.35,Card
+ORD-00171,2025-06-22,Northern,Arua,Consumer,Bookshelf,Furniture,Storage,3,185.76,0.1,501.55,57.58,Card
+ORD-00197,2025-06-22,Central,Kampala,Small Business,24-inch Monitor,Technology,Accessories,1,218.27,0.0,218.27,45.74,Mobile Money
+ORD-00827,2025-06-22,Central,Entebbe,Small Business,Notebook Pack,Office Supplies,Paper,3,18.64,0.0,55.92,13.98,Bank Transfer
+ORD-00851,2025-06-22,Eastern,Mbale,Consumer,Smartphone X,Technology,Phones,1,636.24,0.15,540.8,81.22,Mobile Money
+ORD-01151,2025-06-22,Northern,Arua,Small Business,Smartphone X,Technology,Phones,10,648.77,0.0,6487.7,1424.69,Card
+ORD-00048,2025-06-23,Northern,Lira,Small Business,Office Chair,Furniture,Chairs,5,172.61,0.1,776.75,85.0,Mobile Money
+ORD-00219,2025-06-23,Eastern,Jinja,Consumer,Headset,Technology,Accessories,3,51.21,0.2,122.9,11.72,Mobile Money
+ORD-00248,2025-06-23,Northern,Gulu,Corporate,Whiteboard,Office Supplies,Boards,5,96.63,0.05,458.99,108.53,Cash
+ORD-00943,2025-06-23,Central,Kampala,Corporate,Office Desk,Furniture,Tables,3,418.95,0.2,1005.48,88.5,Mobile Money
+ORD-01007,2025-06-23,Eastern,Iganga,Consumer,Printer Paper,Office Supplies,Paper,2,8.97,0.05,17.04,4.38,Card
+ORD-00289,2025-06-24,Central,Kampala,Corporate,Office Desk,Furniture,Tables,3,427.12,0.2,1025.09,93.1,Mobile Money
+ORD-00410,2025-06-24,Central,Mukono,Consumer,Desk Organizer,Office Supplies,Storage,5,21.34,0.15,90.7,17.5,Mobile Money
+ORD-00757,2025-06-24,Central,Mukono,Consumer,Filing Cabinet,Furniture,Storage,3,245.99,0.05,701.07,89.4,Card
+ORD-01059,2025-06-24,Eastern,Iganga,Small Business,Tablet 10,Technology,Phones,2,352.06,0.0,704.12,122.85,Mobile Money
+ORD-00162,2025-06-25,Northern,Gulu,Small Business,Bookshelf,Furniture,Storage,2,179.21,0.0,358.42,65.78,Card
+ORD-00264,2025-06-25,Central,Entebbe,Small Business,Laptop Pro 14,Technology,Computers,1,1344.41,0.0,1344.41,246.98,Card
+ORD-00815,2025-06-25,Northern,Gulu,Consumer,Office Chair,Furniture,Chairs,1,173.64,0.1,156.28,19.75,Mobile Money
+ORD-00058,2025-06-26,Western,Fort Portal,Small Business,Office Chair,Furniture,Chairs,2,171.87,0.0,343.74,64.83,Bank Transfer
+ORD-00288,2025-06-26,Central,Mukono,Small Business,24-inch Monitor,Technology,Accessories,1,212.17,0.0,212.17,47.91,Card
+ORD-00350,2025-06-26,Eastern,Iganga,Corporate,Ballpoint Pens,Office Supplies,Writing,5,11.79,0.0,58.95,14.97,Mobile Money
+ORD-00643,2025-06-26,Central,Entebbe,Consumer,Printer Paper,Office Supplies,Paper,5,8.93,0.1,40.18,8.21,Card
+ORD-00708,2025-06-26,Northern,Arua,Corporate,Executive Chair,Furniture,Chairs,2,322.41,0.1,580.34,75.81,Card
+ORD-01178,2025-06-26,Western,Kabale,Consumer,Stapler,Office Supplies,Tools,3,14.96,0.0,44.88,11.55,Cash
+ORD-00224,2025-06-27,Northern,Arua,Consumer,Executive Chair,Furniture,Chairs,1,322.31,0.1,290.08,41.49,Card
+ORD-00666,2025-06-27,Central,Kampala,Corporate,Office Chair,Furniture,Chairs,2,191.84,0.0,383.68,56.94,Mobile Money
+ORD-00800,2025-06-27,Central,Entebbe,Small Business,Printer Paper,Office Supplies,Paper,4,8.29,0.0,33.16,8.71,Card
+ORD-00908,2025-06-27,Western,Kabale,Consumer,Executive Chair,Furniture,Chairs,1,305.4,0.1,274.86,29.62,Mobile Money
+ORD-01055,2025-06-27,Western,Mbarara,Corporate,Printer Laser,Technology,Printers,2,254.86,0.0,509.72,107.21,Card
+ORD-00040,2025-06-28,Western,Kabale,Consumer,Laptop Pro 14,Technology,Computers,8,1189.16,0.15,8086.29,933.01,Mobile Money
+ORD-00274,2025-06-28,Western,Kabale,Consumer,Desk Organizer,Office Supplies,Storage,2,22.32,0.05,42.41,10.54,Bank Transfer
+ORD-00319,2025-06-28,Central,Entebbe,Consumer,Whiteboard,Office Supplies,Boards,3,100.3,0.1,270.81,54.23,Mobile Money
+ORD-00479,2025-06-28,Central,Kampala,Small Business,Printer Laser,Technology,Printers,3,275.73,0.05,785.83,141.91,Mobile Money
+ORD-01089,2025-06-28,Central,Entebbe,Small Business,Headset,Technology,Accessories,2,57.65,0.1,103.77,17.49,Cash
+ORD-00401,2025-06-29,Central,Kampala,Consumer,Headset,Technology,Accessories,6,57.6,0.2,276.48,32.73,Mobile Money
+ORD-00547,2025-06-29,Western,Fort Portal,Small Business,Whiteboard,Office Supplies,Boards,1,96.28,0.05,91.47,18.98,Mobile Money
+ORD-00710,2025-06-29,Central,Mukono,Consumer,Stapler,Office Supplies,Tools,2,15.49,0.0,30.98,7.14,Card
+ORD-00157,2025-06-30,Eastern,Iganga,Consumer,Office Desk,Furniture,Tables,1,441.04,0.0,441.04,76.78,Card
+ORD-00540,2025-06-30,Central,Kampala,Corporate,Executive Chair,Furniture,Chairs,3,316.46,0.0,949.38,152.3,Cash
+ORD-00093,2025-07-01,Central,Mukono,Corporate,Headset,Technology,Accessories,2,53.79,0.15,91.44,12.41,Mobile Money
+ORD-00345,2025-07-01,Western,Fort Portal,Consumer,Budget Laptop 15,Technology,Computers,3,805.64,0.0,2416.92,472.89,Card
+ORD-00523,2025-07-01,Central,Mukono,Consumer,Tablet 10,Technology,Phones,1,328.65,0.05,312.22,54.05,Bank Transfer
+ORD-00582,2025-07-01,Western,Mbarara,Corporate,Desk Organizer,Office Supplies,Storage,2,23.14,0.2,37.02,6.29,Bank Transfer
+ORD-00743,2025-07-01,Central,Kampala,Consumer,Laptop Pro 14,Technology,Computers,3,1200.93,0.0,3602.79,828.25,Mobile Money
+ORD-01164,2025-07-01,Northern,Gulu,Small Business,Mechanical Keyboard,Technology,Accessories,1,76.54,0.05,72.71,12.81,Mobile Money
+ORD-00273,2025-07-02,Central,Entebbe,Consumer,Office Desk,Furniture,Tables,1,402.56,0.1,362.3,45.44,Card
+ORD-00811,2025-07-02,Central,Mukono,Corporate,Mechanical Keyboard,Technology,Accessories,2,75.75,0.0,151.5,30.17,Mobile Money
+ORD-00968,2025-07-02,Central,Entebbe,Consumer,Notebook Pack,Office Supplies,Paper,10,18.31,0.05,173.94,34.88,Mobile Money
+ORD-00066,2025-07-03,Central,Mukono,Consumer,Desk Organizer,Office Supplies,Storage,3,23.13,0.0,69.39,16.54,Mobile Money
+ORD-00221,2025-07-03,Central,Entebbe,Small Business,Office Desk,Furniture,Tables,1,404.17,0.05,383.96,54.04,Mobile Money
+ORD-00272,2025-07-03,Central,Entebbe,Corporate,Filing Cabinet,Furniture,Storage,8,230.47,0.15,1567.2,141.06,Card
+ORD-00306,2025-07-03,Northern,Lira,Corporate,Filing Cabinet,Furniture,Storage,1,233.44,0.05,221.77,28.52,Bank Transfer
+ORD-00704,2025-07-03,Eastern,Jinja,Corporate,Smartphone X,Technology,Phones,3,647.47,0.05,1845.29,290.8,Mobile Money
+ORD-01162,2025-07-04,Western,Fort Portal,Small Business,Wireless Mouse,Technology,Accessories,2,28.51,0.0,57.02,12.78,Card
+ORD-00032,2025-07-05,Eastern,Jinja,Corporate,Stapler,Office Supplies,Tools,1,14.66,0.1,13.19,2.4,Cash
+ORD-00576,2025-07-05,Western,Mbarara,Consumer,Headset,Technology,Accessories,1,55.11,0.2,44.09,4.55,Bank Transfer
+ORD-00647,2025-07-05,Central,Entebbe,Corporate,Wireless Mouse,Technology,Accessories,1,28.75,0.2,23.0,2.37,Mobile Money
+ORD-00782,2025-07-05,Western,Mbarara,Corporate,Headset,Technology,Accessories,1,56.11,0.05,53.3,10.57,Mobile Money
+ORD-00802,2025-07-05,Central,Entebbe,Corporate,Office Chair,Furniture,Chairs,1,172.59,0.0,172.59,33.68,Bank Transfer
+ORD-00922,2025-07-05,Central,Mukono,Consumer,24-inch Monitor,Technology,Accessories,1,194.22,0.15,165.09,23.27,Mobile Money
+ORD-00961,2025-07-05,Western,Mbarara,Corporate,Smartphone X,Technology,Phones,3,670.51,0.0,2011.53,344.75,Card
+ORD-00396,2025-07-06,Central,Mukono,Small Business,24-inch Monitor,Technology,Accessories,1,200.61,0.1,180.55,25.62,Mobile Money
+ORD-00640,2025-07-06,Eastern,Iganga,Corporate,Printer Laser,Technology,Printers,5,247.2,0.2,988.8,115.86,Mobile Money
+ORD-00130,2025-07-07,Central,Kampala,Small Business,Wireless Mouse,Technology,Accessories,1,25.84,0.0,25.84,5.06,Card
+ORD-00213,2025-07-07,Western,Mbarara,Consumer,Notebook Pack,Office Supplies,Paper,1,18.71,0.1,16.84,3.95,Bank Transfer
+ORD-00280,2025-07-07,Eastern,Mbale,Corporate,Bookshelf,Furniture,Storage,8,169.39,0.05,1287.36,165.78,Cash
+ORD-00276,2025-07-08,Western,Fort Portal,Small Business,Office Desk,Furniture,Tables,5,418.69,0.05,1988.78,306.06,Mobile Money
+ORD-00469,2025-07-08,Eastern,Jinja,Consumer,Whiteboard,Office Supplies,Boards,2,97.71,0.05,185.65,43.41,Mobile Money
+ORD-00507,2025-07-08,Central,Entebbe,Small Business,Ballpoint Pens,Office Supplies,Writing,2,12.48,0.1,22.46,5.04,Mobile Money
+ORD-00664,2025-07-08,Northern,Arua,Consumer,Smartphone X,Technology,Phones,4,671.68,0.05,2552.38,399.61,Bank Transfer
+ORD-00683,2025-07-08,Central,Entebbe,Consumer,Executive Chair,Furniture,Chairs,4,315.66,0.05,1199.51,159.37,Mobile Money
+ORD-00912,2025-07-08,Eastern,Iganga,Consumer,Stapler,Office Supplies,Tools,2,15.77,0.1,28.39,5.92,Card
+ORD-01094,2025-07-08,Central,Mukono,Consumer,Mechanical Keyboard,Technology,Accessories,1,74.89,0.15,63.66,9.53,Bank Transfer
+ORD-00252,2025-07-09,Western,Mbarara,Small Business,Tablet 10,Technology,Phones,4,340.69,0.05,1294.62,215.56,Card
+ORD-00194,2025-07-10,Eastern,Iganga,Corporate,Mechanical Keyboard,Technology,Accessories,5,73.75,0.0,368.75,80.62,Bank Transfer
+ORD-00673,2025-07-10,Northern,Arua,Corporate,Tablet 10,Technology,Phones,1,314.57,0.0,314.57,67.51,Mobile Money
+ORD-00769,2025-07-10,Western,Mbarara,Consumer,Printer Laser,Technology,Printers,2,269.68,0.0,539.36,111.65,Mobile Money
+ORD-00820,2025-07-10,Central,Kampala,Small Business,Desk Organizer,Office Supplies,Storage,1,22.01,0.05,20.91,5.28,Card
+ORD-00036,2025-07-11,Eastern,Mbale,Consumer,Wireless Mouse,Technology,Accessories,1,29.16,0.0,29.16,4.98,Mobile Money
+ORD-00514,2025-07-11,Eastern,Mbale,Corporate,Notebook Pack,Office Supplies,Paper,10,16.77,0.0,167.7,43.98,Card
+ORD-00705,2025-07-11,Central,Mukono,Consumer,Notebook Pack,Office Supplies,Paper,3,19.35,0.05,55.15,12.49,Card
+ORD-00132,2025-07-12,Central,Mukono,Consumer,Desk Organizer,Office Supplies,Storage,5,23.65,0.2,94.6,16.27,Cash
+ORD-00379,2025-07-12,Central,Entebbe,Corporate,Desk Organizer,Office Supplies,Storage,3,20.84,0.15,53.14,8.3,Card
+ORD-00486,2025-07-12,Central,Mukono,Small Business,Whiteboard,Office Supplies,Boards,2,93.78,0.1,168.8,35.42,Cash
+ORD-00096,2025-07-13,Eastern,Jinja,Consumer,Desk Organizer,Office Supplies,Storage,2,20.6,0.1,37.08,7.22,Cash
+ORD-00279,2025-07-13,Central,Mukono,Consumer,Office Chair,Furniture,Chairs,4,190.55,0.0,762.2,111.09,Card
+ORD-00575,2025-07-14,Northern,Lira,Consumer,Desk Organizer,Office Supplies,Storage,5,20.48,0.05,97.28,22.46,Bank Transfer
+ORD-00587,2025-07-15,Eastern,Mbale,Corporate,24-inch Monitor,Technology,Accessories,2,213.74,0.2,341.98,36.16,Mobile Money
+ORD-00594,2025-07-15,Central,Kampala,Corporate,Whiteboard,Office Supplies,Boards,3,97.69,0.0,293.07,63.69,Cash
+ORD-00826,2025-07-15,Western,Kabale,Consumer,Whiteboard,Office Supplies,Boards,3,100.4,0.05,286.14,65.7,Card
+ORD-00875,2025-07-15,Central,Entebbe,Consumer,Headset,Technology,Accessories,4,53.64,0.0,214.56,49.23,Card
+ORD-00314,2025-07-16,Northern,Arua,Small Business,Wireless Mouse,Technology,Accessories,2,26.4,0.15,44.88,5.82,Bank Transfer
+ORD-00682,2025-07-16,Eastern,Iganga,Small Business,Printer Paper,Office Supplies,Paper,2,9.21,0.15,15.66,2.99,Bank Transfer
+ORD-00835,2025-07-16,Northern,Arua,Consumer,Tablet 10,Technology,Phones,2,315.86,0.05,600.13,91.31,Mobile Money
+ORD-00112,2025-07-17,Western,Fort Portal,Corporate,Filing Cabinet,Furniture,Storage,1,246.34,0.2,197.07,13.59,Bank Transfer
+ORD-00526,2025-07-17,Central,Mukono,Consumer,Laptop Pro 14,Technology,Computers,1,1183.76,0.15,1006.2,147.48,Card
+ORD-00584,2025-07-17,Central,Kampala,Consumer,Stapler,Office Supplies,Tools,6,15.75,0.0,94.5,26.8,Mobile Money
+ORD-00727,2025-07-17,Western,Kabale,Small Business,Office Desk,Furniture,Tables,2,435.99,0.15,741.18,80.2,Mobile Money
+ORD-01176,2025-07-17,Western,Kabale,Corporate,Ballpoint Pens,Office Supplies,Writing,2,11.86,0.0,23.72,6.12,Card
+ORD-00138,2025-07-18,Northern,Gulu,Corporate,Wireless Mouse,Technology,Accessories,1,25.77,0.05,24.48,4.47,Mobile Money
+ORD-00164,2025-07-18,Eastern,Iganga,Corporate,Laptop Pro 14,Technology,Computers,1,1195.45,0.0,1195.45,208.48,Card
+ORD-00603,2025-07-18,Central,Kampala,Small Business,Office Desk,Furniture,Tables,1,417.94,0.0,417.94,66.83,Card
+ORD-00615,2025-07-18,Central,Kampala,Small Business,Printer Laser,Technology,Printers,6,270.82,0.1,1462.43,195.99,Card
+ORD-00763,2025-07-18,Central,Entebbe,Consumer,Notebook Pack,Office Supplies,Paper,3,19.01,0.1,51.33,9.87,Mobile Money
+ORD-00822,2025-07-19,Western,Mbarara,Consumer,Bookshelf,Furniture,Storage,1,178.07,0.0,178.07,33.18,Mobile Money
+ORD-00247,2025-07-20,Western,Kabale,Consumer,Stapler,Office Supplies,Tools,1,13.86,0.2,11.09,1.88,Bank Transfer
+ORD-00517,2025-07-20,Central,Kampala,Consumer,Budget Laptop 15,Technology,Computers,1,822.92,0.15,699.48,99.42,Mobile Money
+ORD-01121,2025-07-21,Northern,Gulu,Consumer,Office Chair,Furniture,Chairs,1,177.69,0.1,159.92,17.23,Bank Transfer
+ORD-00715,2025-07-22,Western,Mbarara,Corporate,Tablet 10,Technology,Phones,6,339.98,0.15,1733.9,199.51,Card
+ORD-00965,2025-07-22,Central,Kampala,Consumer,Smartphone X,Technology,Phones,5,641.6,0.05,3047.6,566.17,Cash
+ORD-00361,2025-07-23,Central,Mukono,Consumer,Headset,Technology,Accessories,3,53.9,0.0,161.7,35.29,Bank Transfer
+ORD-00592,2025-07-23,Central,Entebbe,Consumer,Ballpoint Pens,Office Supplies,Writing,4,11.13,0.0,44.52,10.75,Mobile Money
+ORD-00686,2025-07-23,Western,Kabale,Consumer,Printer Laser,Technology,Printers,5,267.11,0.15,1135.22,157.84,Bank Transfer
+ORD-01068,2025-07-23,Central,Entebbe,Corporate,Laptop Pro 14,Technology,Computers,1,1337.85,0.1,1204.06,158.74,Card
+ORD-01189,2025-07-23,Central,Kampala,Corporate,Executive Chair,Furniture,Chairs,1,296.38,0.2,237.1,20.41,Mobile Money
+ORD-00539,2025-07-24,Central,Mukono,Consumer,24-inch Monitor,Technology,Accessories,5,209.58,0.0,1047.9,221.62,Card
+ORD-00658,2025-07-24,Central,Entebbe,Small Business,Wireless Mouse,Technology,Accessories,3,26.69,0.15,68.06,9.65,Card
+ORD-00745,2025-07-24,Central,Kampala,Consumer,Smartphone X,Technology,Phones,1,722.63,0.0,722.63,143.54,Mobile Money
+ORD-00243,2025-07-25,Northern,Arua,Consumer,Whiteboard,Office Supplies,Boards,5,98.1,0.0,490.5,124.12,Mobile Money
+ORD-00528,2025-07-25,Eastern,Iganga,Corporate,Whiteboard,Office Supplies,Boards,4,94.2,0.0,376.8,103.52,Card
+ORD-00062,2025-07-26,Northern,Lira,Corporate,Budget Laptop 15,Technology,Computers,4,794.63,0.15,2701.74,409.58,Card
+ORD-00069,2025-07-26,Eastern,Mbale,Consumer,Notebook Pack,Office Supplies,Paper,3,17.89,0.0,53.67,14.41,Mobile Money
+ORD-00525,2025-07-26,Northern,Lira,Consumer,Wireless Mouse,Technology,Accessories,3,26.08,0.0,78.24,17.57,Bank Transfer
+ORD-00863,2025-07-26,Central,Mukono,Consumer,24-inch Monitor,Technology,Accessories,2,210.12,0.0,420.24,91.65,Card
+ORD-00024,2025-07-27,Western,Mbarara,Small Business,Mechanical Keyboard,Technology,Accessories,1,74.84,0.0,74.84,15.64,Card
+ORD-00395,2025-07-27,Central,Kampala,Corporate,Smartphone X,Technology,Phones,8,650.59,0.05,4944.48,844.61,Mobile Money
+ORD-00418,2025-07-27,Central,Mukono,Consumer,Stapler,Office Supplies,Tools,2,14.0,0.0,28.0,6.93,Bank Transfer
+ORD-00741,2025-07-27,Central,Mukono,Consumer,Printer Laser,Technology,Printers,1,252.21,0.0,252.21,51.78,Card
+ORD-00588,2025-07-28,Western,Mbarara,Consumer,Printer Paper,Office Supplies,Paper,1,9.02,0.0,9.02,2.46,Cash
+ORD-00116,2025-07-29,Eastern,Jinja,Consumer,Executive Chair,Furniture,Chairs,5,318.05,0.05,1510.74,255.61,Mobile Money
+ORD-00611,2025-07-29,Central,Kampala,Corporate,Executive Chair,Furniture,Chairs,1,318.41,0.05,302.49,50.35,Mobile Money
+ORD-00872,2025-07-30,Western,Kabale,Consumer,Whiteboard,Office Supplies,Boards,1,87.95,0.0,87.95,24.72,Card
+ORD-00899,2025-07-30,Central,Kampala,Consumer,Executive Chair,Furniture,Chairs,6,302.75,0.1,1634.85,188.98,Mobile Money
+ORD-00524,2025-07-31,Western,Kabale,Small Business,Office Chair,Furniture,Chairs,3,180.24,0.15,459.61,50.06,Mobile Money
+ORD-00659,2025-07-31,Eastern,Mbale,Consumer,Headset,Technology,Accessories,2,58.13,0.15,98.82,11.52,Mobile Money
+ORD-00707,2025-07-31,Central,Entebbe,Consumer,Stapler,Office Supplies,Tools,6,15.49,0.05,88.29,22.21,Mobile Money
+ORD-01098,2025-07-31,Eastern,Mbale,Corporate,Stapler,Office Supplies,Tools,1,15.14,0.0,15.14,4.08,Mobile Money
+ORD-00203,2025-08-01,Northern,Arua,Small Business,Notebook Pack,Office Supplies,Paper,1,18.49,0.2,14.79,2.24,Mobile Money
+ORD-00589,2025-08-01,Central,Kampala,Consumer,Executive Chair,Furniture,Chairs,1,327.59,0.0,327.59,55.88,Bank Transfer
+ORD-00685,2025-08-01,Northern,Lira,Consumer,Laptop Pro 14,Technology,Computers,5,1253.94,0.05,5956.22,959.09,Bank Transfer
+ORD-00959,2025-08-01,Western,Kabale,Consumer,Filing Cabinet,Furniture,Storage,3,224.08,0.1,605.02,66.8,Cash
+ORD-00503,2025-08-02,Central,Mukono,Consumer,Printer Paper,Office Supplies,Paper,6,9.47,0.1,51.14,11.41,Cash
+ORD-00834,2025-08-02,Northern,Gulu,Corporate,Office Chair,Furniture,Chairs,2,187.28,0.0,374.56,54.91,Bank Transfer
+ORD-00952,2025-08-02,Northern,Gulu,Corporate,Printer Paper,Office Supplies,Paper,3,9.2,0.0,27.6,6.91,Bank Transfer
+ORD-00095,2025-08-03,Eastern,Iganga,Corporate,Stapler,Office Supplies,Tools,1,15.16,0.05,14.4,2.85,Card
+ORD-00332,2025-08-03,Central,Entebbe,Consumer,Headset,Technology,Accessories,2,54.4,0.0,108.8,24.9,Card
+ORD-00383,2025-08-03,Central,Mukono,Small Business,Office Chair,Furniture,Chairs,10,196.76,0.0,1967.6,346.8,Card
+ORD-00477,2025-08-03,Northern,Gulu,Consumer,Executive Chair,Furniture,Chairs,3,326.42,0.0,979.26,142.12,Cash
+ORD-00506,2025-08-03,Western,Fort Portal,Consumer,Stapler,Office Supplies,Tools,3,14.38,0.0,43.14,10.16,Mobile Money
+ORD-00926,2025-08-03,Northern,Gulu,Consumer,Notebook Pack,Office Supplies,Paper,10,17.82,0.0,178.2,44.82,Mobile Money
+ORD-00086,2025-08-04,Eastern,Iganga,Corporate,Printer Laser,Technology,Printers,1,269.25,0.0,269.25,57.4,Cash
+ORD-00600,2025-08-04,Western,Kabale,Consumer,Tablet 10,Technology,Phones,1,343.75,0.0,343.75,69.4,Card
+ORD-00838,2025-08-04,Western,Mbarara,Small Business,Stapler,Office Supplies,Tools,2,13.88,0.1,24.98,5.47,Card
+ORD-00044,2025-08-05,Central,Entebbe,Consumer,Stapler,Office Supplies,Tools,3,14.74,0.05,42.01,8.98,Mobile Money
+ORD-00323,2025-08-05,Central,Kampala,Small Business,Office Chair,Furniture,Chairs,2,175.53,0.0,351.06,52.49,Mobile Money
+ORD-00467,2025-08-05,Western,Fort Portal,Corporate,Stapler,Office Supplies,Tools,8,14.95,0.0,119.6,30.81,Card
+ORD-00626,2025-08-05,Eastern,Iganga,Small Business,Laptop Pro 14,Technology,Computers,1,1240.47,0.05,1178.45,223.84,Card
+ORD-00898,2025-08-05,Central,Entebbe,Consumer,Headset,Technology,Accessories,10,58.5,0.15,497.25,70.46,Mobile Money
+ORD-00457,2025-08-06,Central,Entebbe,Corporate,Wireless Mouse,Technology,Accessories,4,27.13,0.0,108.52,21.07,Cash
+ORD-00456,2025-08-07,Central,Mukono,Consumer,Laptop Pro 14,Technology,Computers,2,1185.38,0.0,2370.76,543.47,Card
+ORD-00597,2025-08-07,Eastern,Jinja,Consumer,Smartphone X,Technology,Phones,8,723.14,0.2,4628.1,469.64,Mobile Money
+ORD-00232,2025-08-08,Central,Kampala,Small Business,Ballpoint Pens,Office Supplies,Writing,1,12.22,0.05,11.61,2.31,Cash
+ORD-00416,2025-08-08,Western,Mbarara,Consumer,Tablet 10,Technology,Phones,8,331.71,0.05,2521.0,387.11,Cash
+ORD-00505,2025-08-08,Eastern,Iganga,Consumer,Executive Chair,Furniture,Chairs,3,339.01,0.15,864.48,96.19,Bank Transfer
+ORD-00720,2025-08-08,Western,Kabale,Consumer,Whiteboard,Office Supplies,Boards,6,88.72,0.1,479.09,103.2,Card
+ORD-00426,2025-08-09,Central,Entebbe,Consumer,Office Desk,Furniture,Tables,5,377.73,0.1,1699.78,240.72,Mobile Money
+ORD-00565,2025-08-09,Eastern,Jinja,Consumer,Bookshelf,Furniture,Storage,2,166.77,0.15,283.51,33.0,Bank Transfer
+ORD-00919,2025-08-09,Western,Kabale,Consumer,24-inch Monitor,Technology,Accessories,2,212.8,0.15,361.76,48.49,Mobile Money
+ORD-01187,2025-08-10,Central,Mukono,Consumer,Tablet 10,Technology,Phones,5,315.72,0.15,1341.81,177.84,Card
+ORD-00860,2025-08-11,Central,Kampala,Small Business,Filing Cabinet,Furniture,Storage,2,218.33,0.0,436.66,72.67,Mobile Money
+ORD-01184,2025-08-11,Northern,Lira,Corporate,Budget Laptop 15,Technology,Computers,1,730.92,0.05,694.37,134.96,Card
+ORD-00054,2025-08-12,Central,Entebbe,Consumer,Filing Cabinet,Furniture,Storage,1,217.84,0.0,217.84,38.66,Mobile Money
+ORD-00208,2025-08-12,Western,Fort Portal,Corporate,Office Desk,Furniture,Tables,2,430.67,0.1,775.21,100.24,Mobile Money
+ORD-00761,2025-08-12,Western,Kabale,Consumer,Filing Cabinet,Furniture,Storage,5,226.82,0.1,1020.69,119.66,Card
+ORD-00083,2025-08-13,Central,Entebbe,Consumer,Notebook Pack,Office Supplies,Paper,1,18.12,0.0,18.12,4.44,Cash
+ORD-00142,2025-08-13,Central,Kampala,Consumer,Laptop Pro 14,Technology,Computers,5,1214.42,0.0,6072.1,1388.37,Cash
+ORD-00760,2025-08-13,Eastern,Iganga,Consumer,Laptop Pro 14,Technology,Computers,4,1195.73,0.0,4782.92,1066.35,Cash
+ORD-00125,2025-08-14,Central,Mukono,Consumer,Smartphone X,Technology,Phones,1,689.54,0.1,620.59,84.1,Cash
+ORD-00236,2025-08-14,Western,Fort Portal,Consumer,Ballpoint Pens,Office Supplies,Writing,4,11.23,0.1,40.43,7.64,Mobile Money
+ORD-00801,2025-08-14,Eastern,Jinja,Consumer,Filing Cabinet,Furniture,Storage,3,237.47,0.05,676.79,86.89,Mobile Money
+ORD-00011,2025-08-15,Central,Entebbe,Corporate,Wireless Mouse,Technology,Accessories,4,29.21,0.05,111.0,19.67,Card
+ORD-00583,2025-08-15,Central,Mukono,Consumer,Bookshelf,Furniture,Storage,2,169.86,0.0,339.72,50.6,Bank Transfer
+ORD-00953,2025-08-15,Western,Kabale,Corporate,Laptop Pro 14,Technology,Computers,1,1330.13,0.0,1330.13,291.86,Cash
+ORD-00805,2025-08-16,Northern,Gulu,Corporate,Bookshelf,Furniture,Storage,4,167.56,0.1,603.22,70.19,Card
+ORD-01200,2025-08-16,Northern,Gulu,Consumer,Whiteboard,Office Supplies,Boards,4,101.48,0.15,345.03,60.68,Bank Transfer
+ORD-00381,2025-08-18,Northern,Lira,Consumer,Office Desk,Furniture,Tables,3,380.61,0.0,1141.83,166.84,Mobile Money
+ORD-00462,2025-08-18,Northern,Gulu,Corporate,Wireless Mouse,Technology,Accessories,4,29.03,0.05,110.31,18.79,Card
+ORD-01037,2025-08-18,Eastern,Jinja,Corporate,Ballpoint Pens,Office Supplies,Writing,2,11.76,0.0,23.52,6.21,Mobile Money
+ORD-00152,2025-08-19,Central,Entebbe,Corporate,Tablet 10,Technology,Phones,1,365.54,0.05,347.26,57.17,Mobile Money
+ORD-00191,2025-08-19,Northern,Gulu,Consumer,Headset,Technology,Accessories,2,53.72,0.1,96.7,15.1,Mobile Money
+ORD-00440,2025-08-19,Central,Entebbe,Consumer,Smartphone X,Technology,Phones,5,650.38,0.1,2926.71,459.84,Mobile Money
+ORD-00832,2025-08-19,Central,Mukono,Small Business,Smartphone X,Technology,Phones,4,667.46,0.05,2536.35,502.63,Card
+ORD-00944,2025-08-19,Eastern,Mbale,Small Business,Printer Paper,Office Supplies,Paper,1,9.06,0.15,7.7,1.61,Card
+ORD-01134,2025-08-19,Northern,Gulu,Small Business,Laptop Pro 14,Technology,Computers,2,1219.24,0.05,2316.56,391.24,Mobile Money
+ORD-00228,2025-08-20,Western,Fort Portal,Corporate,Headset,Technology,Accessories,5,54.57,0.0,272.85,62.51,Mobile Money
+ORD-01114,2025-08-20,Central,Mukono,Consumer,Whiteboard,Office Supplies,Boards,1,93.83,0.0,93.83,21.26,Card
+ORD-01188,2025-08-20,Eastern,Jinja,Consumer,Office Desk,Furniture,Tables,1,410.71,0.1,369.64,46.99,Card
+ORD-00045,2025-08-21,Western,Mbarara,Consumer,Tablet 10,Technology,Phones,8,339.05,0.1,2441.16,377.59,Mobile Money
+ORD-00404,2025-08-21,Central,Mukono,Corporate,Office Desk,Furniture,Tables,2,396.47,0.0,792.94,116.26,Card
+ORD-00696,2025-08-21,Western,Mbarara,Consumer,Mechanical Keyboard,Technology,Accessories,5,72.48,0.15,308.04,42.4,Cash
+ORD-00545,2025-08-22,Western,Kabale,Corporate,Bookshelf,Furniture,Storage,3,176.42,0.15,449.87,41.31,Card
+ORD-00823,2025-08-22,Northern,Arua,Corporate,Office Chair,Furniture,Chairs,3,197.76,0.2,474.62,41.27,Mobile Money
+ORD-00065,2025-08-23,Eastern,Iganga,Corporate,Whiteboard,Office Supplies,Boards,3,96.29,0.05,274.43,60.57,Mobile Money
+ORD-00465,2025-08-23,Western,Fort Portal,Consumer,Whiteboard,Office Supplies,Boards,1,88.33,0.0,88.33,22.08,Mobile Money
+ORD-00690,2025-08-23,Northern,Lira,Corporate,Smartphone X,Technology,Phones,3,636.29,0.05,1813.43,308.64,Bank Transfer
+ORD-00895,2025-08-23,Central,Kampala,Corporate,Executive Chair,Furniture,Chairs,2,306.74,0.0,613.48,117.94,Mobile Money
+ORD-00118,2025-08-24,Western,Fort Portal,Consumer,Tablet 10,Technology,Phones,3,312.98,0.1,845.05,129.7,Bank Transfer
+ORD-00613,2025-08-24,Central,Kampala,Small Business,Printer Paper,Office Supplies,Paper,3,9.14,0.0,27.42,7.62,Card
+ORD-00687,2025-08-24,Northern,Gulu,Corporate,Laptop Pro 14,Technology,Computers,5,1315.37,0.0,6576.85,1340.09,Cash
+ORD-01196,2025-08-24,Eastern,Jinja,Small Business,Desk Organizer,Office Supplies,Storage,5,22.27,0.05,105.78,26.76,Mobile Money
+ORD-00367,2025-08-25,Central,Entebbe,Consumer,Filing Cabinet,Furniture,Storage,4,232.13,0.1,835.67,107.11,Card
+ORD-00431,2025-08-25,Eastern,Iganga,Consumer,Executive Chair,Furniture,Chairs,5,314.53,0.0,1572.65,235.29,Card
+ORD-00472,2025-08-25,Central,Entebbe,Consumer,Whiteboard,Office Supplies,Boards,2,101.63,0.05,193.1,46.2,Cash
+ORD-00676,2025-08-25,Central,Mukono,Consumer,Stapler,Office Supplies,Tools,2,14.73,0.0,29.46,6.79,Mobile Money
+ORD-01017,2025-08-25,Western,Kabale,Consumer,Desk Organizer,Office Supplies,Storage,3,22.59,0.05,64.38,15.22,Card
+ORD-01050,2025-08-25,Central,Entebbe,Consumer,Executive Chair,Furniture,Chairs,1,295.38,0.05,280.61,44.77,Mobile Money
+ORD-01064,2025-08-25,Eastern,Mbale,Consumer,Ballpoint Pens,Office Supplies,Writing,4,12.9,0.0,51.6,14.14,Mobile Money
+ORD-00231,2025-08-26,Eastern,Mbale,Small Business,Headset,Technology,Accessories,3,56.0,0.0,168.0,32.22,Mobile Money
+ORD-00629,2025-08-26,Eastern,Jinja,Consumer,Wireless Mouse,Technology,Accessories,1,29.73,0.0,29.73,5.54,Bank Transfer
+ORD-00019,2025-08-28,Western,Mbarara,Corporate,Smartphone X,Technology,Phones,3,670.79,0.15,1710.51,207.62,Cash
+ORD-00041,2025-08-30,Northern,Gulu,Consumer,Printer Laser,Technology,Printers,2,253.37,0.1,456.07,65.62,Cash
+ORD-00173,2025-08-30,Central,Kampala,Consumer,Wireless Mouse,Technology,Accessories,5,28.16,0.05,133.76,21.45,Mobile Money
+ORD-00779,2025-08-30,Northern,Gulu,Corporate,Headset,Technology,Accessories,4,53.48,0.0,213.92,36.5,Mobile Money
+ORD-01000,2025-08-30,Western,Kabale,Consumer,Desk Organizer,Office Supplies,Storage,6,22.34,0.05,127.34,24.9,Card
+ORD-01115,2025-08-30,Western,Mbarara,Corporate,Office Desk,Furniture,Tables,4,420.97,0.2,1347.1,99.52,Card
+ORD-00075,2025-08-31,Central,Kampala,Consumer,Mechanical Keyboard,Technology,Accessories,10,72.88,0.15,619.48,92.36,Bank Transfer
+ORD-00257,2025-08-31,Central,Mukono,Consumer,Budget Laptop 15,Technology,Computers,3,762.77,0.1,2059.48,328.19,Card
+ORD-00459,2025-08-31,Eastern,Mbale,Consumer,Bookshelf,Furniture,Storage,4,182.49,0.1,656.96,77.38,Cash
+ORD-00623,2025-08-31,Central,Mukono,Consumer,Budget Laptop 15,Technology,Computers,3,756.22,0.1,2041.79,311.54,Bank Transfer
+ORD-00917,2025-08-31,Eastern,Jinja,Corporate,Whiteboard,Office Supplies,Boards,1,95.95,0.1,86.36,18.61,Mobile Money
+ORD-00004,2025-09-01,Eastern,Iganga,Small Business,24-inch Monitor,Technology,Accessories,3,195.39,0.0,586.17,133.02,Cash
+ORD-00567,2025-09-01,Central,Mukono,Small Business,24-inch Monitor,Technology,Accessories,8,208.16,0.0,1665.28,331.87,Mobile Money
+ORD-01129,2025-09-02,Northern,Arua,Consumer,Bookshelf,Furniture,Storage,3,187.76,0.0,563.28,82.22,Mobile Money
+ORD-00150,2025-09-03,Central,Mukono,Consumer,Bookshelf,Furniture,Storage,2,167.6,0.15,284.92,31.62,Card
+ORD-00377,2025-09-03,Western,Fort Portal,Consumer,Notebook Pack,Office Supplies,Paper,1,18.5,0.05,17.58,4.21,Bank Transfer
+ORD-00492,2025-09-03,Central,Kampala,Consumer,Office Chair,Furniture,Chairs,1,182.5,0.0,182.5,34.82,Mobile Money
+ORD-00586,2025-09-03,Eastern,Jinja,Consumer,Tablet 10,Technology,Phones,2,365.97,0.0,731.94,161.9,Card
+ORD-00762,2025-09-03,Central,Mukono,Consumer,Filing Cabinet,Furniture,Storage,3,216.25,0.0,648.75,121.62,Card
+ORD-00988,2025-09-03,Eastern,Jinja,Corporate,Headset,Technology,Accessories,3,55.68,0.05,158.69,29.88,Bank Transfer
+ORD-00098,2025-09-04,Central,Mukono,Consumer,Printer Laser,Technology,Printers,1,246.63,0.1,221.97,35.98,Mobile Money
+ORD-00234,2025-09-04,Central,Kampala,Corporate,Wireless Mouse,Technology,Accessories,3,29.75,0.1,80.32,10.88,Mobile Money
+ORD-01122,2025-09-04,Eastern,Mbale,Corporate,Notebook Pack,Office Supplies,Paper,5,18.52,0.0,92.6,24.4,Bank Transfer
+ORD-00222,2025-09-05,Eastern,Iganga,Corporate,Ballpoint Pens,Office Supplies,Writing,6,11.84,0.0,71.04,16.48,Bank Transfer
+ORD-00229,2025-09-05,Eastern,Jinja,Consumer,Executive Chair,Furniture,Chairs,2,328.03,0.0,656.06,122.31,Cash
+ORD-00303,2025-09-05,Central,Entebbe,Consumer,Smartphone X,Technology,Phones,3,690.07,0.0,2070.21,436.35,Mobile Money
+ORD-00564,2025-09-05,Western,Kabale,Corporate,Printer Paper,Office Supplies,Paper,1,8.96,0.1,8.06,1.52,Mobile Money
+ORD-00616,2025-09-06,Eastern,Jinja,Consumer,Printer Paper,Office Supplies,Paper,3,9.33,0.1,25.19,5.74,Card
+ORD-00848,2025-09-06,Eastern,Jinja,Small Business,Smartphone X,Technology,Phones,1,663.73,0.1,597.36,103.19,Mobile Money
+ORD-01147,2025-09-06,Central,Mukono,Consumer,Tablet 10,Technology,Phones,4,315.49,0.0,1261.96,278.8,Bank Transfer
+ORD-00038,2025-09-07,Eastern,Jinja,Small Business,Mechanical Keyboard,Technology,Accessories,1,73.45,0.0,73.45,14.7,Card
+ORD-00412,2025-09-07,Central,Mukono,Consumer,Notebook Pack,Office Supplies,Paper,3,17.68,0.05,50.39,10.97,Mobile Money
+ORD-00871,2025-09-07,Northern,Gulu,Corporate,Headset,Technology,Accessories,10,51.73,0.15,439.7,49.98,Card
+ORD-00572,2025-09-08,Central,Mukono,Consumer,Notebook Pack,Office Supplies,Paper,5,18.28,0.0,91.4,23.98,Cash
+ORD-01157,2025-09-08,Central,Kampala,Consumer,Notebook Pack,Office Supplies,Paper,2,19.03,0.1,34.25,6.57,Mobile Money
+ORD-01057,2025-09-09,Western,Kabale,Corporate,Budget Laptop 15,Technology,Computers,2,826.23,0.05,1569.84,266.87,Mobile Money
+ORD-00003,2025-09-10,Eastern,Jinja,Corporate,Executive Chair,Furniture,Chairs,1,306.32,0.2,245.06,17.2,Card
+ORD-00487,2025-09-10,Central,Kampala,Corporate,Wireless Mouse,Technology,Accessories,1,28.22,0.05,26.81,4.62,Bank Transfer
+ORD-00511,2025-09-10,Western,Kabale,Consumer,Stapler,Office Supplies,Tools,2,15.27,0.0,30.54,7.19,Mobile Money
+ORD-01035,2025-09-10,Central,Kampala,Consumer,Stapler,Office Supplies,Tools,10,15.39,0.0,153.9,37.88,Card
+ORD-00318,2025-09-11,Eastern,Jinja,Consumer,Smartphone X,Technology,Phones,1,659.76,0.2,527.81,54.65,Mobile Money
+ORD-00563,2025-09-11,Northern,Arua,Consumer,24-inch Monitor,Technology,Accessories,3,217.37,0.0,652.11,121.48,Bank Transfer
+ORD-00901,2025-09-11,Eastern,Jinja,Corporate,24-inch Monitor,Technology,Accessories,1,193.38,0.0,193.38,36.68,Cash
+ORD-00956,2025-09-11,Central,Kampala,Small Business,Whiteboard,Office Supplies,Boards,1,98.96,0.05,94.01,21.26,Cash
+ORD-00571,2025-09-12,Eastern,Iganga,Corporate,Executive Chair,Furniture,Chairs,6,309.21,0.0,1855.26,303.03,Mobile Money
+ORD-00938,2025-09-12,Central,Mukono,Consumer,Desk Organizer,Office Supplies,Storage,1,20.85,0.1,18.76,3.67,Mobile Money
+ORD-01135,2025-09-12,Western,Mbarara,Consumer,Printer Paper,Office Supplies,Paper,1,9.19,0.05,8.73,1.72,Cash
+ORD-01154,2025-09-12,Western,Kabale,Corporate,Office Chair,Furniture,Chairs,2,183.09,0.0,366.18,60.42,Card
+ORD-00513,2025-09-13,Central,Kampala,Corporate,Bookshelf,Furniture,Storage,8,171.0,0.0,1368.0,221.68,Card
+ORD-00729,2025-09-14,Western,Mbarara,Consumer,Headset,Technology,Accessories,4,51.24,0.0,204.96,46.31,Cash
+ORD-00772,2025-09-14,Central,Mukono,Consumer,Printer Laser,Technology,Printers,5,258.66,0.0,1293.3,241.03,Bank Transfer
+ORD-00794,2025-09-14,Western,Fort Portal,Corporate,Office Desk,Furniture,Tables,2,380.51,0.05,722.97,92.05,Card
+ORD-00866,2025-09-14,Northern,Gulu,Corporate,Office Chair,Furniture,Chairs,3,173.57,0.0,520.71,86.16,Cash
+ORD-00129,2025-09-15,Western,Mbarara,Corporate,Filing Cabinet,Furniture,Storage,1,234.3,0.0,234.3,45.58,Mobile Money
+ORD-00337,2025-09-15,Western,Mbarara,Small Business,Whiteboard,Office Supplies,Boards,1,101.76,0.0,101.76,27.25,Mobile Money
+ORD-00433,2025-09-15,Western,Fort Portal,Consumer,Desk Organizer,Office Supplies,Storage,1,22.26,0.0,22.26,5.39,Card
+ORD-00558,2025-09-15,Central,Kampala,Consumer,24-inch Monitor,Technology,Accessories,1,212.61,0.05,201.98,36.61,Mobile Money
+ORD-00599,2025-09-15,Central,Entebbe,Small Business,Headset,Technology,Accessories,1,54.51,0.15,46.33,5.47,Cash
+ORD-01136,2025-09-15,Northern,Lira,Consumer,Ballpoint Pens,Office Supplies,Writing,2,11.08,0.0,22.16,6.08,Mobile Money
+ORD-00078,2025-09-16,Central,Entebbe,Consumer,Executive Chair,Furniture,Chairs,3,304.73,0.05,868.48,135.19,Mobile Money
+ORD-00178,2025-09-16,Central,Entebbe,Consumer,Filing Cabinet,Furniture,Storage,3,238.49,0.05,679.7,99.21,Card
+ORD-00930,2025-09-16,Eastern,Iganga,Corporate,Ballpoint Pens,Office Supplies,Writing,8,12.45,0.0,99.6,21.17,Bank Transfer
+ORD-00940,2025-09-16,Northern,Arua,Corporate,Bookshelf,Furniture,Storage,4,175.83,0.05,668.15,94.05,Card
+ORD-00121,2025-09-17,Central,Kampala,Consumer,Whiteboard,Office Supplies,Boards,2,90.08,0.0,180.16,41.26,Cash
+ORD-00307,2025-09-17,Western,Mbarara,Consumer,Budget Laptop 15,Technology,Computers,3,836.52,0.05,2384.08,482.47,Bank Transfer
+ORD-00445,2025-09-17,Central,Entebbe,Corporate,Office Desk,Furniture,Tables,8,432.76,0.1,3115.87,368.96,Card
+ORD-00972,2025-09-17,Central,Entebbe,Corporate,Budget Laptop 15,Technology,Computers,1,754.81,0.15,641.59,87.52,Mobile Money
+ORD-01075,2025-09-17,Central,Mukono,Small Business,Executive Chair,Furniture,Chairs,5,345.32,0.05,1640.27,276.78,Card
+ORD-00199,2025-09-18,Eastern,Mbale,Consumer,Printer Laser,Technology,Printers,1,242.62,0.0,242.62,55.33,Cash
+ORD-01182,2025-09-18,Central,Entebbe,Consumer,Smartphone X,Technology,Phones,3,700.51,0.15,1786.3,247.9,Mobile Money
+ORD-00122,2025-09-19,Western,Fort Portal,Consumer,Printer Paper,Office Supplies,Paper,1,9.14,0.05,8.68,1.99,Card
+ORD-00434,2025-09-19,Northern,Arua,Consumer,Printer Paper,Office Supplies,Paper,1,8.8,0.1,7.92,1.66,Mobile Money
+ORD-00552,2025-09-19,Central,Mukono,Consumer,Office Desk,Furniture,Tables,3,409.33,0.05,1166.59,173.55,Card
+ORD-00692,2025-09-19,Eastern,Jinja,Small Business,Bookshelf,Furniture,Storage,3,163.28,0.0,489.84,75.61,Card
+ORD-01159,2025-09-19,Eastern,Jinja,Consumer,Wireless Mouse,Technology,Accessories,3,25.84,0.05,73.64,12.42,Cash
+ORD-01056,2025-09-20,Central,Kampala,Corporate,Laptop Pro 14,Technology,Computers,1,1194.98,0.0,1194.98,240.39,Bank Transfer
+ORD-00031,2025-09-21,Northern,Lira,Corporate,Filing Cabinet,Furniture,Storage,5,232.9,0.0,1164.5,194.31,Mobile Money
+ORD-00245,2025-09-21,Western,Mbarara,Small Business,Notebook Pack,Office Supplies,Paper,2,18.36,0.2,29.38,4.74,Mobile Money
+ORD-00425,2025-09-21,Central,Mukono,Corporate,Tablet 10,Technology,Phones,3,334.73,0.05,953.98,182.15,Card
+ORD-00989,2025-09-21,Eastern,Mbale,Consumer,Budget Laptop 15,Technology,Computers,2,778.73,0.1,1401.71,218.4,Bank Transfer
+ORD-00990,2025-09-21,Western,Kabale,Small Business,Office Desk,Furniture,Tables,1,414.96,0.0,414.96,80.08,Mobile Money
+ORD-00005,2025-09-22,Central,Entebbe,Consumer,Headset,Technology,Accessories,1,55.97,0.1,50.37,8.59,Card
+ORD-00235,2025-09-22,Western,Fort Portal,Consumer,Smartphone X,Technology,Phones,4,686.82,0.0,2747.28,602.47,Mobile Money
+ORD-00906,2025-09-22,Central,Mukono,Corporate,Tablet 10,Technology,Phones,4,319.74,0.1,1151.06,200.0,Bank Transfer
+ORD-01186,2025-09-22,Eastern,Mbale,Small Business,Smartphone X,Technology,Phones,3,729.15,0.05,2078.08,365.69,Mobile Money
+ORD-00097,2025-09-23,Central,Entebbe,Corporate,Budget Laptop 15,Technology,Computers,2,737.09,0.0,1474.18,313.94,Mobile Money
+ORD-00201,2025-09-23,Western,Kabale,Corporate,Printer Laser,Technology,Printers,1,277.48,0.05,263.61,47.08,Mobile Money
+ORD-00081,2025-09-24,Western,Fort Portal,Consumer,Wireless Mouse,Technology,Accessories,1,28.74,0.1,25.87,4.04,Bank Transfer
+ORD-00189,2025-09-24,Northern,Arua,Consumer,Printer Paper,Office Supplies,Paper,10,8.48,0.0,84.8,18.79,Mobile Money
+ORD-00246,2025-09-25,Eastern,Mbale,Consumer,Desk Organizer,Office Supplies,Storage,3,21.13,0.1,57.05,10.71,Cash
+ORD-00461,2025-09-25,Eastern,Iganga,Consumer,Notebook Pack,Office Supplies,Paper,1,19.25,0.0,19.25,4.85,Card
+ORD-00546,2025-09-25,Northern,Lira,Consumer,Ballpoint Pens,Office Supplies,Writing,2,12.03,0.15,20.45,3.73,Mobile Money
+ORD-01010,2025-09-25,Eastern,Iganga,Consumer,Office Chair,Furniture,Chairs,1,192.62,0.0,192.62,30.03,Cash
+ORD-00406,2025-09-26,Central,Kampala,Consumer,Office Chair,Furniture,Chairs,2,193.72,0.05,368.07,50.68,Mobile Money
+ORD-00986,2025-09-26,Central,Entebbe,Small Business,Smartphone X,Technology,Phones,4,707.55,0.0,2830.2,527.42,Card
+ORD-00007,2025-09-27,Northern,Arua,Corporate,Printer Laser,Technology,Printers,3,279.18,0.05,795.66,155.83,Card
+ORD-00242,2025-09-27,Western,Kabale,Small Business,Ballpoint Pens,Office Supplies,Writing,4,12.63,0.2,40.42,6.85,Bank Transfer
+ORD-00504,2025-09-27,Central,Entebbe,Consumer,Mechanical Keyboard,Technology,Accessories,2,66.96,0.0,133.92,26.67,Mobile Money
+ORD-00360,2025-09-28,Eastern,Jinja,Consumer,Notebook Pack,Office Supplies,Paper,2,19.16,0.1,34.49,6.44,Bank Transfer
+ORD-00936,2025-09-28,Central,Mukono,Small Business,Executive Chair,Furniture,Chairs,3,336.8,0.1,909.36,102.43,Card
+ORD-01127,2025-09-28,Western,Kabale,Consumer,Wireless Mouse,Technology,Accessories,2,28.96,0.0,57.92,9.86,Mobile Money
+ORD-00238,2025-09-29,Central,Mukono,Small Business,Printer Laser,Technology,Printers,1,246.15,0.1,221.54,35.94,Mobile Money
+ORD-00270,2025-09-30,Northern,Lira,Consumer,Printer Laser,Technology,Printers,2,258.4,0.1,465.12,77.09,Bank Transfer
+ORD-00421,2025-09-30,Western,Fort Portal,Consumer,Bookshelf,Furniture,Storage,1,175.34,0.0,175.34,32.25,Cash
+ORD-01003,2025-09-30,Western,Mbarara,Consumer,Executive Chair,Furniture,Chairs,5,308.27,0.0,1541.35,245.18,Bank Transfer
+ORD-00117,2025-10-01,Western,Kabale,Consumer,Tablet 10,Technology,Phones,1,317.62,0.0,317.62,54.71,Card
+ORD-00137,2025-10-01,Western,Kabale,Consumer,Printer Laser,Technology,Printers,1,242.99,0.0,242.99,43.55,Card
+ORD-00678,2025-10-01,Western,Mbarara,Corporate,Office Desk,Furniture,Tables,1,403.61,0.1,363.25,51.13,Mobile Money
+ORD-00903,2025-10-01,Central,Kampala,Consumer,Ballpoint Pens,Office Supplies,Writing,1,12.22,0.2,9.78,1.7,Mobile Money
+ORD-00077,2025-10-02,Central,Kampala,Consumer,Filing Cabinet,Furniture,Storage,1,222.22,0.05,211.11,31.9,Card
+ORD-00168,2025-10-02,Central,Kampala,Corporate,Mechanical Keyboard,Technology,Accessories,1,69.78,0.0,69.78,15.22,Mobile Money
+ORD-00909,2025-10-02,Northern,Arua,Small Business,Wireless Mouse,Technology,Accessories,3,28.63,0.2,68.71,8.37,Bank Transfer
+ORD-01054,2025-10-02,Western,Fort Portal,Small Business,Printer Paper,Office Supplies,Paper,2,8.68,0.15,14.76,2.94,Card
+ORD-00663,2025-10-03,Eastern,Jinja,Corporate,Tablet 10,Technology,Phones,2,331.22,0.1,596.2,80.09,Card
+ORD-00955,2025-10-03,Central,Mukono,Corporate,Notebook Pack,Office Supplies,Paper,2,16.82,0.0,33.64,8.64,Card
+ORD-00378,2025-10-04,Northern,Arua,Corporate,Office Chair,Furniture,Chairs,3,172.27,0.2,413.45,33.62,Cash
+ORD-00742,2025-10-04,Eastern,Jinja,Corporate,Headset,Technology,Accessories,5,57.68,0.15,245.14,35.9,Bank Transfer
+ORD-00338,2025-10-05,Northern,Lira,Consumer,Bookshelf,Furniture,Storage,2,177.32,0.0,354.64,55.82,Bank Transfer
+ORD-00417,2025-10-05,Central,Mukono,Small Business,Laptop Pro 14,Technology,Computers,1,1221.84,0.05,1160.75,226.03,Card
+ORD-00471,2025-10-05,Eastern,Mbale,Small Business,Mechanical Keyboard,Technology,Accessories,4,77.08,0.0,308.32,54.71,Bank Transfer
+ORD-00260,2025-10-06,Western,Fort Portal,Corporate,Office Desk,Furniture,Tables,2,395.27,0.1,711.49,83.77,Card
+ORD-00368,2025-10-06,Northern,Gulu,Corporate,Smartphone X,Technology,Phones,3,717.4,0.1,1936.98,275.47,Bank Transfer
+ORD-00008,2025-10-07,Central,Kampala,Consumer,Office Chair,Furniture,Chairs,2,170.66,0.0,341.32,56.69,Mobile Money
+ORD-00029,2025-10-07,Central,Mukono,Consumer,Budget Laptop 15,Technology,Computers,1,757.85,0.0,757.85,167.42,Cash
+ORD-00979,2025-10-07,Northern,Lira,Consumer,24-inch Monitor,Technology,Accessories,5,212.08,0.0,1060.4,193.9,Cash
+ORD-01138,2025-10-07,Eastern,Jinja,Consumer,Smartphone X,Technology,Phones,2,656.4,0.0,1312.8,299.82,Mobile Money
+ORD-00394,2025-10-08,Northern,Arua,Consumer,Smartphone X,Technology,Phones,1,653.05,0.15,555.09,81.37,Card
+ORD-01110,2025-10-08,Western,Mbarara,Corporate,Desk Organizer,Office Supplies,Storage,1,21.98,0.05,20.88,4.74,Mobile Money
+ORD-00113,2025-10-09,Eastern,Mbale,Small Business,Tablet 10,Technology,Phones,1,328.98,0.1,296.08,51.74,Bank Transfer
+ORD-00156,2025-10-09,Central,Mukono,Consumer,Wireless Mouse,Technology,Accessories,2,27.18,0.15,46.21,6.14,Mobile Money
+ORD-00557,2025-10-09,Eastern,Iganga,Corporate,Budget Laptop 15,Technology,Computers,2,765.38,0.05,1454.22,275.09,Bank Transfer
+ORD-00941,2025-10-09,Eastern,Mbale,Consumer,Executive Chair,Furniture,Chairs,5,326.69,0.05,1551.78,200.01,Mobile Money
+ORD-00969,2025-10-09,Western,Fort Portal,Corporate,Notebook Pack,Office Supplies,Paper,4,17.14,0.15,58.28,10.48,Card
+ORD-00330,2025-10-10,Central,Entebbe,Consumer,Laptop Pro 14,Technology,Computers,2,1271.1,0.15,2160.87,264.6,Mobile Money
+ORD-00349,2025-10-10,Eastern,Iganga,Corporate,Headset,Technology,Accessories,5,52.5,0.1,236.25,40.02,Card
+ORD-00435,2025-10-10,Eastern,Iganga,Consumer,Printer Paper,Office Supplies,Paper,2,8.41,0.0,16.82,4.09,Mobile Money
+ORD-00454,2025-10-10,Central,Mukono,Consumer,Notebook Pack,Office Supplies,Paper,1,18.61,0.0,18.61,4.45,Mobile Money
+ORD-00407,2025-10-11,Central,Entebbe,Small Business,Ballpoint Pens,Office Supplies,Writing,5,11.4,0.15,48.45,8.5,Mobile Money
+ORD-00853,2025-10-11,Western,Kabale,Corporate,Filing Cabinet,Furniture,Storage,1,241.06,0.0,241.06,40.41,Mobile Money
+ORD-00864,2025-10-11,Western,Fort Portal,Corporate,Office Chair,Furniture,Chairs,2,182.28,0.05,346.33,48.39,Cash
+ORD-00732,2025-10-12,Eastern,Mbale,Corporate,Executive Chair,Furniture,Chairs,1,335.52,0.1,301.97,38.45,Card
+ORD-00181,2025-10-13,Eastern,Mbale,Consumer,Desk Organizer,Office Supplies,Storage,4,22.38,0.15,76.09,13.91,Mobile Money
+ORD-00638,2025-10-13,Central,Entebbe,Corporate,Wireless Mouse,Technology,Accessories,10,29.42,0.05,279.49,48.6,Card
+ORD-01177,2025-10-13,Central,Kampala,Small Business,Notebook Pack,Office Supplies,Paper,2,17.1,0.0,34.2,9.66,Cash
+ORD-00809,2025-10-14,Central,Entebbe,Small Business,Notebook Pack,Office Supplies,Paper,3,16.74,0.0,50.22,11.28,Cash
+ORD-00455,2025-10-15,Western,Kabale,Consumer,Headset,Technology,Accessories,3,51.35,0.05,146.35,26.36,Card
+ORD-00783,2025-10-15,Northern,Gulu,Consumer,Budget Laptop 15,Technology,Computers,2,782.29,0.1,1408.12,215.76,Card
+ORD-01081,2025-10-15,Central,Kampala,Consumer,Office Desk,Furniture,Tables,4,404.94,0.05,1538.77,231.45,Bank Transfer
+ORD-01088,2025-10-15,Central,Kampala,Consumer,Headset,Technology,Accessories,1,52.97,0.0,52.97,10.63,Card
+ORD-01104,2025-10-15,Central,Kampala,Consumer,Notebook Pack,Office Supplies,Paper,8,17.32,0.05,131.63,28.17,Card
+ORD-00085,2025-10-16,Central,Entebbe,Consumer,Budget Laptop 15,Technology,Computers,4,760.29,0.15,2584.99,375.52,Bank Transfer
+ORD-00642,2025-10-16,Eastern,Iganga,Consumer,Laptop Pro 14,Technology,Computers,1,1267.69,0.1,1140.92,161.5,Card
+ORD-00688,2025-10-16,Eastern,Jinja,Consumer,Stapler,Office Supplies,Tools,2,14.89,0.2,23.82,3.4,Bank Transfer
+ORD-00721,2025-10-16,Central,Kampala,Consumer,Notebook Pack,Office Supplies,Paper,2,19.02,0.05,36.14,8.84,Mobile Money
+ORD-00797,2025-10-16,Eastern,Mbale,Corporate,Bookshelf,Furniture,Storage,1,166.82,0.05,158.48,23.4,Mobile Money
+ORD-00993,2025-10-17,Northern,Arua,Consumer,Printer Paper,Office Supplies,Paper,4,8.77,0.0,35.08,8.69,Cash
+ORD-00429,2025-10-18,Western,Fort Portal,Consumer,Ballpoint Pens,Office Supplies,Writing,3,12.54,0.05,35.74,9.34,Card
+ORD-01009,2025-10-18,Western,Fort Portal,Small Business,Bookshelf,Furniture,Storage,3,171.99,0.05,490.17,67.78,Card
+ORD-00087,2025-10-19,Northern,Arua,Consumer,24-inch Monitor,Technology,Accessories,5,204.71,0.2,818.84,82.7,Mobile Money
+ORD-00182,2025-10-19,Central,Entebbe,Consumer,Bookshelf,Furniture,Storage,2,187.23,0.0,374.46,64.69,Card
+ORD-00278,2025-10-19,Western,Mbarara,Corporate,Printer Paper,Office Supplies,Paper,1,9.39,0.1,8.45,1.81,Bank Transfer
+ORD-00436,2025-10-19,Western,Mbarara,Consumer,Ballpoint Pens,Office Supplies,Writing,1,12.24,0.0,12.24,2.86,Mobile Money
+ORD-00581,2025-10-19,Eastern,Mbale,Consumer,Smartphone X,Technology,Phones,6,688.61,0.1,3718.49,653.38,Bank Transfer
+ORD-00935,2025-10-19,Eastern,Iganga,Consumer,Notebook Pack,Office Supplies,Paper,5,19.35,0.0,96.75,27.52,Mobile Money
+ORD-00120,2025-10-20,Northern,Arua,Small Business,Smartphone X,Technology,Phones,10,701.13,0.15,5959.6,885.29,Cash
+ORD-00605,2025-10-20,Eastern,Iganga,Consumer,Executive Chair,Furniture,Chairs,1,345.55,0.05,328.27,44.36,Card
+ORD-00740,2025-10-20,Central,Kampala,Corporate,Notebook Pack,Office Supplies,Paper,3,17.32,0.05,49.36,10.51,Cash
+ORD-01179,2025-10-20,Central,Mukono,Consumer,Ballpoint Pens,Office Supplies,Writing,1,12.48,0.0,12.48,3.4,Bank Transfer
+ORD-00158,2025-10-21,Central,Entebbe,Consumer,Bookshelf,Furniture,Storage,1,181.52,0.15,154.29,14.21,Cash
+ORD-00452,2025-10-21,Central,Kampala,Consumer,Ballpoint Pens,Office Supplies,Writing,1,12.26,0.1,11.03,2.32,Cash
+ORD-00550,2025-10-21,Eastern,Mbale,Corporate,Budget Laptop 15,Technology,Computers,1,732.74,0.1,659.47,96.17,Card
+ORD-00652,2025-10-21,Northern,Gulu,Consumer,Laptop Pro 14,Technology,Computers,2,1231.29,0.15,2093.19,299.97,Bank Transfer
+ORD-01156,2025-10-21,Eastern,Jinja,Consumer,Office Chair,Furniture,Chairs,3,181.8,0.05,518.13,72.07,Mobile Money
+ORD-00335,2025-10-22,Central,Mukono,Consumer,Smartphone X,Technology,Phones,1,711.62,0.05,676.04,118.49,Card
+ORD-01082,2025-10-23,Northern,Gulu,Small Business,Headset,Technology,Accessories,1,52.5,0.05,49.88,8.06,Cash
+ORD-00090,2025-10-24,Western,Kabale,Small Business,Laptop Pro 14,Technology,Computers,1,1317.78,0.2,1054.22,102.91,Bank Transfer
+ORD-00788,2025-10-24,Central,Mukono,Consumer,Printer Laser,Technology,Printers,1,265.66,0.1,239.09,41.23,Bank Transfer
+ORD-00873,2025-10-24,Northern,Arua,Corporate,24-inch Monitor,Technology,Accessories,1,200.58,0.1,180.52,27.47,Cash
+ORD-00021,2025-10-25,Central,Entebbe,Small Business,Ballpoint Pens,Office Supplies,Writing,3,11.5,0.05,32.78,6.55,Bank Transfer
+ORD-00151,2025-10-25,Central,Entebbe,Small Business,Budget Laptop 15,Technology,Computers,1,779.04,0.15,662.18,81.09,Card
+ORD-00639,2025-10-25,Western,Fort Portal,Consumer,Office Desk,Furniture,Tables,3,386.67,0.05,1102.01,142.73,Bank Transfer
+ORD-00859,2025-10-25,Northern,Arua,Corporate,Printer Laser,Technology,Printers,2,262.95,0.0,525.9,102.27,Bank Transfer
+ORD-00735,2025-10-26,Central,Entebbe,Small Business,Whiteboard,Office Supplies,Boards,4,94.52,0.0,378.08,97.11,Bank Transfer
+ORD-00927,2025-10-27,Central,Kampala,Consumer,Printer Laser,Technology,Printers,4,260.94,0.1,939.38,157.92,Card
+ORD-00255,2025-10-28,Northern,Lira,Consumer,24-inch Monitor,Technology,Accessories,1,194.92,0.1,175.43,25.21,Card
+ORD-00830,2025-10-28,Central,Entebbe,Small Business,Laptop Pro 14,Technology,Computers,1,1318.0,0.0,1318.0,281.39,Mobile Money
+ORD-00928,2025-10-28,Central,Kampala,Consumer,Printer Paper,Office Supplies,Paper,2,8.48,0.0,16.96,4.58,Bank Transfer
+ORD-01031,2025-10-28,Central,Mukono,Consumer,Budget Laptop 15,Technology,Computers,3,836.05,0.05,2382.74,458.11,Bank Transfer
+ORD-01072,2025-10-28,Eastern,Jinja,Consumer,Office Chair,Furniture,Chairs,2,197.6,0.05,375.44,57.79,Bank Transfer
+ORD-00233,2025-10-29,Central,Kampala,Small Business,Bookshelf,Furniture,Storage,10,178.77,0.1,1608.93,180.96,Card
+ORD-00668,2025-10-29,Western,Kabale,Consumer,Executive Chair,Furniture,Chairs,1,306.4,0.05,291.08,38.09,Card
+ORD-00660,2025-10-30,Eastern,Mbale,Corporate,Desk Organizer,Office Supplies,Storage,3,23.02,0.0,69.06,15.89,Mobile Money
+ORD-00850,2025-10-30,Central,Entebbe,Corporate,Laptop Pro 14,Technology,Computers,2,1195.96,0.15,2033.13,289.55,Cash
+ORD-00998,2025-10-30,Western,Fort Portal,Corporate,Stapler,Office Supplies,Tools,5,15.94,0.2,63.76,10.87,Cash
+ORD-00374,2025-10-31,Central,Entebbe,Consumer,Smartphone X,Technology,Phones,1,712.76,0.15,605.85,75.67,Card
+ORD-00876,2025-10-31,Western,Fort Portal,Corporate,Budget Laptop 15,Technology,Computers,5,797.06,0.05,3786.03,615.82,Cash
+ORD-00958,2025-10-31,Northern,Lira,Consumer,Headset,Technology,Accessories,1,57.57,0.1,51.81,7.13,Mobile Money
+ORD-01044,2025-10-31,Eastern,Iganga,Consumer,Mechanical Keyboard,Technology,Accessories,2,71.64,0.0,143.28,27.23,Mobile Money
+ORD-00111,2025-11-01,Central,Entebbe,Small Business,Stapler,Office Supplies,Tools,1,15.9,0.05,15.1,3.67,Card
+ORD-00148,2025-11-01,Western,Kabale,Corporate,Headset,Technology,Accessories,3,57.36,0.1,154.87,24.04,Card
+ORD-00446,2025-11-01,Northern,Lira,Consumer,Headset,Technology,Accessories,2,52.59,0.1,94.66,15.52,Card
+ORD-00810,2025-11-01,Central,Kampala,Corporate,Filing Cabinet,Furniture,Storage,3,224.98,0.05,641.19,86.54,Bank Transfer
+ORD-00444,2025-11-02,Central,Kampala,Corporate,Laptop Pro 14,Technology,Computers,2,1280.42,0.0,2560.84,555.33,Card
+ORD-00481,2025-11-02,Central,Kampala,Corporate,Notebook Pack,Office Supplies,Paper,2,17.59,0.0,35.18,10.09,Bank Transfer
+ORD-00950,2025-11-02,Eastern,Mbale,Consumer,24-inch Monitor,Technology,Accessories,3,194.02,0.05,552.96,106.71,Mobile Money
+ORD-00107,2025-11-03,Central,Mukono,Corporate,Office Desk,Furniture,Tables,2,424.37,0.0,848.74,135.5,Card
+ORD-00230,2025-11-03,Central,Entebbe,Corporate,Printer Laser,Technology,Printers,2,263.23,0.1,473.81,76.41,Card
+ORD-00468,2025-11-04,Central,Kampala,Consumer,Budget Laptop 15,Technology,Computers,1,804.74,0.05,764.5,124.09,Mobile Money
+ORD-00498,2025-11-04,Northern,Gulu,Corporate,Headset,Technology,Accessories,4,57.78,0.15,196.45,22.27,Mobile Money
+ORD-00580,2025-11-04,Eastern,Mbale,Small Business,Office Desk,Furniture,Tables,1,377.89,0.1,340.1,45.85,Card
+ORD-00803,2025-11-04,Northern,Arua,Corporate,Office Desk,Furniture,Tables,6,422.72,0.05,2409.5,354.26,Mobile Money
+ORD-00833,2025-11-04,Northern,Gulu,Consumer,24-inch Monitor,Technology,Accessories,8,222.13,0.05,1688.19,305.57,Cash
+ORD-00916,2025-11-04,Northern,Gulu,Corporate,Printer Paper,Office Supplies,Paper,3,8.7,0.05,24.8,5.27,Mobile Money
+ORD-00921,2025-11-04,Western,Kabale,Small Business,Ballpoint Pens,Office Supplies,Writing,4,11.95,0.0,47.8,12.42,Card
+ORD-00106,2025-11-05,Central,Kampala,Consumer,Stapler,Office Supplies,Tools,2,15.05,0.05,28.6,5.62,Cash
+ORD-00336,2025-11-05,Central,Mukono,Consumer,Smartphone X,Technology,Phones,1,712.81,0.1,641.53,102.72,Mobile Money
+ORD-00718,2025-11-05,Eastern,Jinja,Corporate,Budget Laptop 15,Technology,Computers,3,762.05,0.0,2286.15,484.25,Card
+ORD-00211,2025-11-06,Northern,Gulu,Corporate,Executive Chair,Furniture,Chairs,3,335.06,0.0,1005.18,150.02,Card
+ORD-00321,2025-11-06,Eastern,Jinja,Corporate,Ballpoint Pens,Office Supplies,Writing,1,12.4,0.05,11.78,2.41,Card
+ORD-00689,2025-11-06,Western,Mbarara,Corporate,Wireless Mouse,Technology,Accessories,2,29.01,0.0,58.02,10.95,Card
+ORD-00755,2025-11-06,Central,Entebbe,Corporate,Desk Organizer,Office Supplies,Storage,2,20.94,0.0,41.88,9.02,Mobile Money
+ORD-00614,2025-11-07,Eastern,Mbale,Consumer,Smartphone X,Technology,Phones,2,649.95,0.05,1234.9,247.97,Card
+ORD-00910,2025-11-07,Central,Entebbe,Corporate,Filing Cabinet,Furniture,Storage,1,218.4,0.0,218.4,35.36,Cash
+ORD-01143,2025-11-08,Central,Mukono,Corporate,Tablet 10,Technology,Phones,2,338.69,0.1,609.64,108.49,Bank Transfer
+ORD-00283,2025-11-09,Northern,Arua,Corporate,Stapler,Office Supplies,Tools,4,14.89,0.15,50.63,10.13,Card
+ORD-01043,2025-11-09,Western,Kabale,Corporate,Headset,Technology,Accessories,2,54.28,0.15,92.28,12.01,Cash
+ORD-00759,2025-11-10,Central,Mukono,Consumer,Stapler,Office Supplies,Tools,2,15.64,0.0,31.28,7.82,Cash
+ORD-00994,2025-11-10,Northern,Gulu,Consumer,Bookshelf,Furniture,Storage,5,162.16,0.1,729.72,87.9,Mobile Money
+ORD-01032,2025-11-10,Central,Kampala,Consumer,Desk Organizer,Office Supplies,Storage,6,22.57,0.0,135.42,38.93,Card
+ORD-01049,2025-11-10,Western,Kabale,Corporate,Mechanical Keyboard,Technology,Accessories,2,72.12,0.1,129.82,17.88,Card
+ORD-01071,2025-11-10,Eastern,Jinja,Consumer,Desk Organizer,Office Supplies,Storage,4,20.98,0.0,83.92,20.99,Mobile Money
+ORD-00016,2025-11-11,Central,Kampala,Consumer,Headset,Technology,Accessories,2,59.07,0.2,94.51,9.62,Mobile Money
+ORD-00177,2025-11-12,Central,Kampala,Corporate,Filing Cabinet,Furniture,Storage,1,243.99,0.05,231.79,35.74,Mobile Money
+ORD-00725,2025-11-12,Western,Fort Portal,Small Business,Filing Cabinet,Furniture,Storage,1,238.95,0.0,238.95,39.87,Card
+ORD-00841,2025-11-12,Central,Kampala,Consumer,Executive Chair,Furniture,Chairs,4,339.58,0.0,1358.32,236.62,Card
+ORD-00896,2025-11-12,Central,Entebbe,Corporate,24-inch Monitor,Technology,Accessories,1,204.98,0.0,204.98,44.17,Cash
+ORD-01170,2025-11-12,Central,Entebbe,Corporate,Notebook Pack,Office Supplies,Paper,4,16.77,0.15,57.02,8.95,Mobile Money
+ORD-00891,2025-11-14,Western,Fort Portal,Corporate,Smartphone X,Technology,Phones,2,670.23,0.15,1139.39,139.75,Bank Transfer
+ORD-00902,2025-11-14,Central,Kampala,Small Business,Wireless Mouse,Technology,Accessories,1,29.85,0.05,28.36,5.48,Bank Transfer
+ORD-00391,2025-11-15,Central,Kampala,Consumer,Stapler,Office Supplies,Tools,4,13.84,0.15,47.06,8.65,Card
+ORD-00881,2025-11-15,Western,Mbarara,Corporate,Whiteboard,Office Supplies,Boards,2,94.71,0.0,189.42,48.09,Mobile Money
+ORD-00244,2025-11-16,Eastern,Jinja,Consumer,Notebook Pack,Office Supplies,Paper,3,17.42,0.0,52.26,14.02,Bank Transfer
+ORD-00049,2025-11-17,Western,Mbarara,Corporate,Tablet 10,Technology,Phones,10,333.27,0.1,2999.43,406.82,Card
+ORD-00302,2025-11-17,Central,Entebbe,Consumer,Printer Paper,Office Supplies,Paper,1,9.27,0.1,8.34,1.93,Mobile Money
+ORD-00775,2025-11-17,Central,Mukono,Consumer,Laptop Pro 14,Technology,Computers,3,1217.12,0.1,3286.22,549.87,Card
+ORD-01119,2025-11-17,Central,Kampala,Consumer,24-inch Monitor,Technology,Accessories,3,208.38,0.1,562.63,99.47,Mobile Money
+ORD-00806,2025-11-18,Eastern,Mbale,Corporate,Office Chair,Furniture,Chairs,3,196.87,0.0,590.61,105.65,Mobile Money
+ORD-01069,2025-11-18,Central,Mukono,Consumer,Smartphone X,Technology,Phones,4,687.44,0.0,2749.76,603.18,Mobile Money
+ORD-00428,2025-11-19,Western,Kabale,Small Business,Stapler,Office Supplies,Tools,3,14.36,0.0,43.08,9.84,Bank Transfer
+ORD-00089,2025-11-20,Western,Mbarara,Consumer,Printer Laser,Technology,Printers,3,254.78,0.1,687.91,92.84,Mobile Money
+ORD-00568,2025-11-20,Northern,Arua,Corporate,Office Chair,Furniture,Chairs,4,176.26,0.15,599.28,66.92,Mobile Money
+ORD-00573,2025-11-20,Eastern,Mbale,Small Business,Stapler,Office Supplies,Tools,3,13.89,0.1,37.5,7.38,Card
+ORD-00758,2025-11-20,Eastern,Jinja,Corporate,Office Chair,Furniture,Chairs,2,191.57,0.0,383.14,72.2,Card
+ORD-00796,2025-11-21,Central,Entebbe,Corporate,Tablet 10,Technology,Phones,1,348.7,0.0,348.7,68.31,Bank Transfer
+ORD-00854,2025-11-21,Central,Entebbe,Consumer,Desk Organizer,Office Supplies,Storage,1,21.03,0.0,21.03,4.56,Card
+ORD-00067,2025-11-22,Central,Kampala,Consumer,Filing Cabinet,Furniture,Storage,1,230.13,0.0,230.13,41.36,Cash
+ORD-00716,2025-11-22,Western,Mbarara,Corporate,Tablet 10,Technology,Phones,8,349.36,0.1,2515.39,359.55,Cash
+ORD-00885,2025-11-22,Central,Entebbe,Small Business,Bookshelf,Furniture,Storage,2,188.33,0.05,357.83,53.29,Mobile Money
+ORD-01123,2025-11-22,Central,Mukono,Consumer,24-inch Monitor,Technology,Accessories,2,208.36,0.0,416.72,80.45,Bank Transfer
+ORD-00617,2025-11-23,Eastern,Jinja,Corporate,Ballpoint Pens,Office Supplies,Writing,3,11.43,0.0,34.29,9.85,Mobile Money
+ORD-00699,2025-11-23,Northern,Arua,Corporate,Bookshelf,Furniture,Storage,1,172.95,0.15,147.01,15.74,Card
+ORD-00781,2025-11-23,Western,Fort Portal,Small Business,Tablet 10,Technology,Phones,4,362.73,0.0,1450.92,263.85,Cash
+ORD-00010,2025-11-24,Eastern,Jinja,Consumer,Ballpoint Pens,Office Supplies,Writing,2,12.32,0.1,22.18,4.67,Card
+ORD-00275,2025-11-24,Western,Mbarara,Consumer,Stapler,Office Supplies,Tools,5,13.95,0.15,59.29,12.07,Card
+ORD-00641,2025-11-24,Northern,Arua,Corporate,Printer Laser,Technology,Printers,3,261.05,0.05,743.99,120.16,Cash
+ORD-00079,2025-11-25,Northern,Arua,Small Business,Printer Paper,Office Supplies,Paper,2,8.78,0.05,16.68,4.28,Bank Transfer
+ORD-00200,2025-11-25,Central,Entebbe,Corporate,Wireless Mouse,Technology,Accessories,1,29.23,0.05,27.77,5.14,Mobile Money
+ORD-01024,2025-11-25,Western,Fort Portal,Corporate,Printer Laser,Technology,Printers,4,243.92,0.0,975.68,197.87,Mobile Money
+ORD-01038,2025-11-25,Western,Kabale,Corporate,Printer Paper,Office Supplies,Paper,1,8.42,0.0,8.42,2.02,Mobile Money
+ORD-01066,2025-11-25,Central,Entebbe,Corporate,Printer Laser,Technology,Printers,2,260.74,0.05,495.41,96.69,Mobile Money
+ORD-00100,2025-11-26,Central,Mukono,Small Business,Whiteboard,Office Supplies,Boards,1,97.17,0.15,82.59,15.99,Card
+ORD-00165,2025-11-26,Northern,Gulu,Small Business,Wireless Mouse,Technology,Accessories,3,29.56,0.2,70.94,8.77,Mobile Money
+ORD-00723,2025-11-26,Central,Entebbe,Consumer,Mechanical Keyboard,Technology,Accessories,6,76.26,0.0,457.56,98.76,Mobile Money
+ORD-00363,2025-11-27,Northern,Arua,Consumer,Office Desk,Furniture,Tables,5,401.68,0.15,1707.14,181.91,Mobile Money
+ORD-00372,2025-11-27,Western,Mbarara,Small Business,Smartphone X,Technology,Phones,1,670.86,0.2,536.69,63.43,Bank Transfer
+ORD-00622,2025-11-27,Central,Kampala,Small Business,Bookshelf,Furniture,Storage,1,182.25,0.0,182.25,30.99,Mobile Money
+ORD-00846,2025-11-27,Central,Entebbe,Corporate,Budget Laptop 15,Technology,Computers,1,831.74,0.1,748.57,105.89,Mobile Money
+ORD-01002,2025-11-27,Northern,Arua,Small Business,24-inch Monitor,Technology,Accessories,2,211.91,0.0,423.82,74.8,Mobile Money
+ORD-00392,2025-11-28,Eastern,Iganga,Consumer,Tablet 10,Technology,Phones,1,319.5,0.1,287.55,47.22,Card
+ORD-00649,2025-11-29,Eastern,Jinja,Small Business,Bookshelf,Furniture,Storage,2,175.93,0.0,351.86,68.72,Bank Transfer
+ORD-00698,2025-11-29,Northern,Gulu,Consumer,24-inch Monitor,Technology,Accessories,8,213.38,0.15,1450.98,193.99,Mobile Money
+ORD-00717,2025-11-29,Eastern,Jinja,Consumer,Headset,Technology,Accessories,1,53.11,0.0,53.11,10.79,Mobile Money
+ORD-00839,2025-11-29,Northern,Gulu,Corporate,Printer Paper,Office Supplies,Paper,5,9.03,0.05,42.89,9.99,Bank Transfer
+ORD-00970,2025-11-29,Central,Entebbe,Small Business,24-inch Monitor,Technology,Accessories,6,198.37,0.05,1130.71,218.37,Mobile Money
+ORD-01026,2025-11-29,Northern,Arua,Consumer,Filing Cabinet,Furniture,Storage,3,243.85,0.05,694.97,96.3,Mobile Money
+ORD-00080,2025-11-30,Western,Kabale,Consumer,Office Chair,Furniture,Chairs,1,197.62,0.0,197.62,35.83,Cash
+ORD-00522,2025-11-30,Western,Kabale,Consumer,Filing Cabinet,Furniture,Storage,8,212.27,0.0,1698.16,323.69,Bank Transfer
+ORD-00971,2025-11-30,Eastern,Mbale,Consumer,Laptop Pro 14,Technology,Computers,6,1221.24,0.05,6961.07,1052.95,Card
+ORD-01061,2025-11-30,Eastern,Iganga,Corporate,Whiteboard,Office Supplies,Boards,1,95.49,0.1,85.94,19.25,Mobile Money
+ORD-01067,2025-11-30,Central,Kampala,Corporate,Office Chair,Furniture,Chairs,6,173.35,0.0,1040.1,176.39,Mobile Money
+ORD-01073,2025-11-30,Northern,Lira,Corporate,Notebook Pack,Office Supplies,Paper,2,17.44,0.05,33.14,6.99,Mobile Money
+ORD-01161,2025-11-30,Central,Entebbe,Corporate,Ballpoint Pens,Office Supplies,Writing,3,11.53,0.15,29.4,6.06,Cash
+ORD-00063,2025-12-01,Eastern,Iganga,Corporate,Budget Laptop 15,Technology,Computers,2,815.4,0.05,1549.26,266.46,Bank Transfer
+ORD-00131,2025-12-01,Western,Mbarara,Corporate,Mechanical Keyboard,Technology,Accessories,1,77.15,0.1,69.44,9.69,Cash
+ORD-00604,2025-12-01,Northern,Gulu,Consumer,Printer Laser,Technology,Printers,3,258.27,0.1,697.33,109.02,Card
+ORD-00601,2025-12-02,Eastern,Iganga,Corporate,Wireless Mouse,Technology,Accessories,1,29.0,0.05,27.55,4.41,Cash
+ORD-00731,2025-12-02,Central,Kampala,Consumer,Stapler,Office Supplies,Tools,4,15.04,0.0,60.16,15.17,Mobile Money
+ORD-01183,2025-12-02,Northern,Lira,Corporate,Headset,Technology,Accessories,3,51.64,0.1,139.43,23.77,Card
+ORD-00217,2025-12-03,Western,Kabale,Consumer,Whiteboard,Office Supplies,Boards,1,100.67,0.05,95.64,23.99,Cash
+ORD-00325,2025-12-03,Northern,Arua,Corporate,Bookshelf,Furniture,Storage,6,171.65,0.05,978.41,129.73,Cash
+ORD-00453,2025-12-03,Northern,Lira,Consumer,Tablet 10,Technology,Phones,1,363.08,0.1,326.77,50.05,Mobile Money
+ORD-00700,2025-12-03,Western,Fort Portal,Corporate,Ballpoint Pens,Office Supplies,Writing,2,11.89,0.15,20.21,3.74,Card
+ORD-00123,2025-12-04,Northern,Arua,Corporate,Wireless Mouse,Technology,Accessories,1,28.17,0.0,28.17,5.79,Mobile Money
+ORD-00237,2025-12-04,Northern,Gulu,Consumer,Ballpoint Pens,Office Supplies,Writing,3,12.59,0.1,33.99,7.69,Mobile Money
+ORD-00256,2025-12-04,Central,Entebbe,Corporate,Laptop Pro 14,Technology,Computers,2,1174.21,0.0,2348.42,458.26,Mobile Money
+ORD-00400,2025-12-04,Central,Kampala,Corporate,Ballpoint Pens,Office Supplies,Writing,2,12.22,0.05,23.22,5.93,Card
+ORD-01165,2025-12-04,Northern,Arua,Small Business,Desk Organizer,Office Supplies,Storage,10,21.52,0.05,204.44,43.98,Card
+ORD-01193,2025-12-04,Central,Kampala,Corporate,Whiteboard,Office Supplies,Boards,2,99.41,0.05,188.88,44.98,Card
+ORD-00326,2025-12-05,Northern,Arua,Corporate,Printer Laser,Technology,Printers,4,274.28,0.05,1042.26,162.66,Card
+ORD-00789,2025-12-05,Central,Mukono,Small Business,Tablet 10,Technology,Phones,4,364.13,0.05,1383.69,275.26,Mobile Money
+ORD-00831,2025-12-05,Western,Kabale,Small Business,24-inch Monitor,Technology,Accessories,2,219.63,0.0,439.26,82.91,Bank Transfer
+ORD-00843,2025-12-05,Eastern,Mbale,Consumer,Whiteboard,Office Supplies,Boards,1,92.37,0.0,92.37,22.66,Card
+ORD-00911,2025-12-05,Northern,Gulu,Consumer,Mechanical Keyboard,Technology,Accessories,6,68.28,0.0,409.68,80.18,Card
+ORD-00945,2025-12-05,Eastern,Iganga,Consumer,Office Desk,Furniture,Tables,3,405.08,0.1,1093.72,127.51,Card
+ORD-01033,2025-12-06,Central,Entebbe,Small Business,Ballpoint Pens,Office Supplies,Writing,2,12.41,0.05,23.58,4.67,Mobile Money
+ORD-01092,2025-12-06,Northern,Lira,Corporate,Tablet 10,Technology,Phones,8,324.77,0.05,2468.25,435.38,Mobile Money
+ORD-00984,2025-12-07,Western,Mbarara,Consumer,Headset,Technology,Accessories,6,55.22,0.15,281.62,39.83,Card
+ORD-00756,2025-12-08,Central,Kampala,Consumer,Notebook Pack,Office Supplies,Paper,5,17.76,0.05,84.36,21.94,Mobile Money
+ORD-00808,2025-12-08,Western,Kabale,Consumer,Budget Laptop 15,Technology,Computers,3,729.42,0.0,2188.26,500.13,Card
+ORD-00837,2025-12-08,Eastern,Iganga,Corporate,Laptop Pro 14,Technology,Computers,4,1283.88,0.1,4621.97,711.46,Mobile Money
+ORD-00951,2025-12-08,Eastern,Iganga,Small Business,Tablet 10,Technology,Phones,3,343.99,0.05,980.37,196.35,Mobile Money
+ORD-01102,2025-12-08,Central,Mukono,Consumer,Mechanical Keyboard,Technology,Accessories,3,69.23,0.05,197.31,39.32,Mobile Money
+ORD-01163,2025-12-08,Eastern,Mbale,Small Business,Notebook Pack,Office Supplies,Paper,3,17.44,0.05,49.7,11.93,Cash
+ORD-00313,2025-12-09,Eastern,Iganga,Consumer,Office Chair,Furniture,Chairs,1,175.39,0.0,175.39,33.1,Bank Transfer
+ORD-00441,2025-12-09,Northern,Gulu,Small Business,Mechanical Keyboard,Technology,Accessories,2,77.67,0.0,155.34,27.86,Bank Transfer
+ORD-00677,2025-12-10,Central,Entebbe,Corporate,24-inch Monitor,Technology,Accessories,1,226.79,0.0,226.79,38.58,Mobile Money
+ORD-00925,2025-12-10,Northern,Arua,Small Business,Bookshelf,Furniture,Storage,6,179.0,0.0,1074.0,176.12,Mobile Money
+ORD-00205,2025-12-11,Western,Mbarara,Consumer,Bookshelf,Furniture,Storage,1,181.33,0.0,181.33,33.76,Card
+ORD-01030,2025-12-11,Northern,Gulu,Consumer,Stapler,Office Supplies,Tools,1,13.97,0.05,13.27,3.11,Card
+ORD-00366,2025-12-12,Western,Mbarara,Corporate,Executive Chair,Furniture,Chairs,2,330.89,0.05,628.69,89.57,Mobile Money
+ORD-00424,2025-12-12,Central,Kampala,Small Business,Budget Laptop 15,Technology,Computers,3,780.3,0.0,2340.9,500.69,Mobile Money
+ORD-01130,2025-12-12,Western,Mbarara,Consumer,Printer Paper,Office Supplies,Paper,3,9.16,0.0,27.48,6.57,Mobile Money
+ORD-00607,2025-12-13,Central,Kampala,Corporate,Tablet 10,Technology,Phones,1,333.75,0.0,333.75,75.62,Bank Transfer
+ORD-00665,2025-12-13,Northern,Gulu,Consumer,Stapler,Office Supplies,Tools,1,15.11,0.0,15.11,3.84,Card
+ORD-00669,2025-12-13,Central,Entebbe,Consumer,Notebook Pack,Office Supplies,Paper,1,18.46,0.1,16.61,3.9,Card
+ORD-01172,2025-12-13,Northern,Lira,Corporate,Desk Organizer,Office Supplies,Storage,5,21.48,0.0,107.4,30.48,Mobile Money
+ORD-00829,2025-12-14,Northern,Arua,Corporate,Headset,Technology,Accessories,4,56.94,0.0,227.76,47.96,Card
+ORD-01199,2025-12-14,Central,Kampala,Corporate,Headset,Technology,Accessories,1,58.16,0.15,49.44,6.36,Card
+ORD-00286,2025-12-15,Central,Entebbe,Small Business,Smartphone X,Technology,Phones,5,686.35,0.05,3260.16,550.97,Mobile Money
+ORD-00656,2025-12-15,Northern,Gulu,Consumer,Smartphone X,Technology,Phones,3,719.32,0.0,2157.96,394.07,Cash
+ORD-00767,2025-12-15,Central,Mukono,Consumer,24-inch Monitor,Technology,Accessories,1,201.56,0.1,181.4,24.03,Card
+ORD-01168,2025-12-15,Central,Mukono,Small Business,Office Desk,Furniture,Tables,4,423.47,0.05,1609.19,242.16,Card
+ORD-00747,2025-12-16,Central,Entebbe,Corporate,Ballpoint Pens,Office Supplies,Writing,3,12.83,0.05,36.57,7.29,Bank Transfer
+ORD-00844,2025-12-17,Western,Kabale,Small Business,Smartphone X,Technology,Phones,6,743.6,0.05,4238.52,764.54,Mobile Money
+ORD-00308,2025-12-18,Central,Entebbe,Small Business,Laptop Pro 14,Technology,Computers,2,1342.03,0.1,2415.65,404.03,Card
+ORD-00443,2025-12-18,Western,Fort Portal,Corporate,Tablet 10,Technology,Phones,6,357.59,0.1,1930.99,304.35,Mobile Money
+ORD-00634,2025-12-19,Western,Mbarara,Small Business,Printer Laser,Technology,Printers,2,244.85,0.1,440.73,78.1,Mobile Money
+ORD-00730,2025-12-19,Northern,Gulu,Consumer,Office Desk,Furniture,Tables,1,433.53,0.0,433.53,76.66,Card
+ORD-00261,2025-12-20,Central,Mukono,Consumer,Filing Cabinet,Furniture,Storage,6,223.33,0.05,1272.98,192.39,Card
+ORD-00356,2025-12-20,Central,Entebbe,Consumer,Laptop Pro 14,Technology,Computers,3,1173.08,0.05,3343.28,612.24,Mobile Money
+ORD-00744,2025-12-20,Central,Mukono,Small Business,Executive Chair,Furniture,Chairs,2,334.77,0.05,636.06,102.77,Bank Transfer
+ORD-00749,2025-12-20,Central,Kampala,Consumer,Notebook Pack,Office Supplies,Paper,1,17.85,0.05,16.96,3.97,Mobile Money
+ORD-00784,2025-12-20,Central,Entebbe,Consumer,Whiteboard,Office Supplies,Boards,4,100.47,0.0,401.88,99.21,Mobile Money
+ORD-00102,2025-12-21,Western,Fort Portal,Corporate,Filing Cabinet,Furniture,Storage,1,229.54,0.15,195.11,22.37,Card
+ORD-00375,2025-12-21,Western,Mbarara,Corporate,Executive Chair,Furniture,Chairs,2,327.08,0.0,654.16,118.98,Mobile Money
+ORD-00786,2025-12-22,Eastern,Jinja,Small Business,Mechanical Keyboard,Technology,Accessories,2,75.12,0.1,135.22,19.25,Card
+ORD-00793,2025-12-22,Eastern,Iganga,Small Business,24-inch Monitor,Technology,Accessories,1,222.19,0.1,199.97,27.86,Bank Transfer
+ORD-01047,2025-12-22,Eastern,Iganga,Consumer,Printer Paper,Office Supplies,Paper,2,8.37,0.0,16.74,3.62,Mobile Money
+ORD-01155,2025-12-22,Eastern,Iganga,Small Business,Notebook Pack,Office Supplies,Paper,5,19.36,0.0,96.8,21.43,Mobile Money
+ORD-00370,2025-12-23,Northern,Gulu,Consumer,Printer Laser,Technology,Printers,1,240.6,0.0,240.6,53.59,Card
+ORD-00878,2025-12-23,Central,Kampala,Corporate,Printer Laser,Technology,Printers,5,264.61,0.0,1323.05,254.94,Bank Transfer
+ORD-01016,2025-12-23,Northern,Gulu,Consumer,Ballpoint Pens,Office Supplies,Writing,5,12.21,0.1,54.95,12.35,Mobile Money
+ORD-00059,2025-12-24,Western,Kabale,Consumer,24-inch Monitor,Technology,Accessories,4,205.9,0.1,741.24,105.97,Mobile Money
+ORD-00750,2025-12-25,Western,Mbarara,Small Business,Whiteboard,Office Supplies,Boards,1,96.94,0.0,96.94,22.6,Card
+ORD-01087,2025-12-25,Central,Mukono,Corporate,Printer Paper,Office Supplies,Paper,4,8.4,0.05,31.92,7.97,Mobile Money
+ORD-00002,2025-12-26,Northern,Lira,Corporate,Budget Laptop 15,Technology,Computers,4,717.7,0.15,2440.18,371.07,Card
+ORD-00409,2025-12-26,Eastern,Iganga,Small Business,24-inch Monitor,Technology,Accessories,1,219.55,0.15,186.62,24.45,Mobile Money
+ORD-00709,2025-12-26,Eastern,Jinja,Consumer,Printer Laser,Technology,Printers,3,265.1,0.05,755.54,114.4,Card
+ORD-00892,2025-12-26,Western,Kabale,Corporate,Headset,Technology,Accessories,2,51.71,0.15,87.91,12.27,Card
+ORD-00051,2025-12-27,Northern,Arua,Corporate,Bookshelf,Furniture,Storage,1,174.38,0.05,165.66,21.38,Card
+ORD-00447,2025-12-27,Northern,Arua,Consumer,24-inch Monitor,Technology,Accessories,3,197.3,0.0,591.9,125.53,Bank Transfer
+ORD-00619,2025-12-27,Central,Entebbe,Consumer,Budget Laptop 15,Technology,Computers,3,837.75,0.15,2136.26,293.95,Mobile Money
+ORD-00766,2025-12-27,Eastern,Mbale,Consumer,Stapler,Office Supplies,Tools,5,15.39,0.0,76.95,18.61,Cash
+ORD-00804,2025-12-27,Eastern,Jinja,Consumer,Office Desk,Furniture,Tables,4,419.56,0.05,1594.33,200.84,Bank Transfer
+ORD-01097,2025-12-27,Central,Mukono,Consumer,Stapler,Office Supplies,Tools,8,16.05,0.05,121.98,31.57,Mobile Money
+ORD-00856,2025-12-28,Eastern,Iganga,Consumer,Filing Cabinet,Furniture,Storage,6,232.23,0.0,1393.38,208.1,Card
+ORD-00960,2025-12-28,Western,Fort Portal,Consumer,Bookshelf,Furniture,Storage,2,161.45,0.05,306.75,40.05,Mobile Money
+ORD-00088,2025-12-29,Central,Kampala,Small Business,Printer Laser,Technology,Printers,2,239.95,0.05,455.9,89.96,Card
+ORD-00347,2025-12-29,Eastern,Iganga,Consumer,Laptop Pro 14,Technology,Computers,4,1281.03,0.05,4867.91,801.9,Mobile Money
+ORD-00981,2025-12-29,Eastern,Jinja,Consumer,Printer Paper,Office Supplies,Paper,2,8.9,0.0,17.8,4.52,Cash
+ORD-00918,2025-12-30,Central,Mukono,Corporate,Bookshelf,Furniture,Storage,1,181.04,0.2,144.83,12.59,Card
+ORD-00954,2025-12-30,Central,Mukono,Corporate,Stapler,Office Supplies,Tools,1,14.48,0.0,14.48,3.27,Mobile Money
+ORD-00109,2025-12-31,Central,Kampala,Corporate,Budget Laptop 15,Technology,Computers,1,808.48,0.0,808.48,161.48,Card
+ORD-00268,2025-12-31,Northern,Arua,Corporate,Whiteboard,Office Supplies,Boards,2,98.18,0.1,176.72,32.72,Card
+ORD-00373,2025-12-31,Eastern,Iganga,Small Business,Printer Paper,Office Supplies,Paper,2,9.66,0.0,19.32,5.4,Card
+ORD-00393,2025-12-31,Western,Mbarara,Consumer,Smartphone X,Technology,Phones,3,688.85,0.05,1963.22,363.6,Card
+ORD-00791,2025-12-31,Western,Mbarara,Consumer,Office Chair,Furniture,Chairs,3,180.36,0.05,514.03,77.22,Cash
+ORD-00842,2025-12-31,Northern,Gulu,Corporate,Headset,Technology,Accessories,4,50.9,0.0,203.6,41.46,Cash
+ORD-00966,2025-12-31,Central,Mukono,Small Business,Bookshelf,Furniture,Storage,3,162.38,0.15,414.07,43.38,Mobile Money
